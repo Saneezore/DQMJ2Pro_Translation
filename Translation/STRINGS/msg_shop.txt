@@ -196,7 +196,7 @@ Browse a wide range of monster data.
 Engage in Virtual Battles.
 Exit the monster pen.
 This feature is not available until you have more than {315}20 monsters.
-This feature is not available until you have more than {315}20 monsters.
+This feature is not available until you have more than {315}30 monsters.
 
 
 
