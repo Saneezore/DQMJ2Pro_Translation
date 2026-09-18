@@ -261,6 +261,7 @@ def build_randomizer_settings_summary(args):
         f"- Synthesis polarity changes: {'on' if args.synthesis_polarity else 'off'}",
         "",
         "Randomiser settings:",
+        f"- Enabled: {'on' if args.randomizer_enabled else 'off'}",
         f"- Battle monsters: {'on' if args.randomizer_monsters else 'off'}",
         f"- Battle XP rewards: {'on' if args.randomizer_xp else 'off'}",
         f"- Spoiler log: {'on' if args.randomizer_spoiler else 'off'}",
@@ -341,6 +342,7 @@ def main(argv=None):
     ap.add_argument("--synthesis-level", type=int, default=None)
     ap.add_argument("--synthesis-polarity", action="store_true")
 
+    ap.add_argument("--randomizer-enabled", action="store_true")
     ap.add_argument("--randomizer-monsters", action="store_true")
     ap.add_argument("--randomizer-seed", type=int, default=0)
     ap.add_argument("--randomizer-spoiler", action="store_true")
@@ -504,6 +506,7 @@ def main(argv=None):
     dec = arm9_decompress(arm9)
     apply_grow_msg_pool(dec, 0x35000)
     taint_save = any((
+        args.randomizer_enabled,
         args.xp_mult is not None,
         args.full_reserve_exp,
         args.scout_offense,

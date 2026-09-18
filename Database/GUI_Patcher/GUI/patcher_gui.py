@@ -759,6 +759,7 @@ class App((TkinterDnD.Tk if TKDND_AVAILABLE else tk.Tk)):
             args.append("--synthesis-polarity")
 
         if self.randomizer_enabled_var.get():
+            args.append("--randomizer-enabled")
             seed = self.randomizer_seed_value.get().strip() or "0"
             try:
                 int(seed)

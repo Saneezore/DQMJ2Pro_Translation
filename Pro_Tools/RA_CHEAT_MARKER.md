@@ -9,6 +9,7 @@ irreversible marker in save-backed RAM:
 - removal of the multiple-owned scouting penalty
 - minimum synthesis level
 - removal of the synthesis polarity requirement
+- Randomiser master option
 
 The X/XY suffix and polarity-icon fixes are cosmetic and do not set it.
 
