@@ -303,12 +303,12 @@ Schleiman Tank,S,Slime,Stormsgate Citadel,Darkonium Slime,Ultra Slime,Mortoad
 Slider Girl,S,Slime,Shogum,Mechanowyrm,Mortella,Angel Slime
 Slime Blaster,S,Slime,Schleiman Tank,Empyrea,Canzar,Slider Girl
 Dark Mecha-Slime,SS,Slime,Sagittar,Schwarzman Tank,Rhapthorne II,Trode
-Barbarus,SS,Dragon,Orochi,Goreham-Hogg,Goresby-Purrvis,Hootingham-Gore
-Dimensional Dragon,SS,Dragon,Barbarus,Orgodemir,Alabast Dragon,Black Dragon
+Barbarus,SS,Dragon,Orochi,Ladja,,
+Dimensional Dragon,SS,Dragon,King Godwyn II,Orgodemir,Black Dragon,Alabast Dragon
 Wild Boarfish,D,Nature,Headhunter,Swarmtroop,,
 Wormonger,D,Nature,Bona Constrictor,Bona Constrictor,Boreal Serpent,Boreal Serpent
 Pipit,C,Nature,Hades Condor,Bad Egg,,
-Empyrea,A,Nature,Garuda,Gemon,,
+Empyrea,A,Nature,Garuda,Garuda,Gemon,Gemon
 Elder Pipit,S,Nature,Pipit,Grandpa Slime,,
 Numen,SS,Nature,Fluffy,King Sanguini,,
 Teeny Sanguini,E,Beast,Chainine,Dracky,,
@@ -335,3 +335,4 @@ Stella,A,？？？,Conkettes,Teeny Sanguini,,
 Zoma's Devil,A,？？？,Bone Baron,Hargon,,
 Malevolynx,SS,？？？,Leokid,Ace Of Spades,,
 Wulfspade,SS,？？？,Empyrea,Leopold,,
+Zenith Dragon,SS,Dragon,Dragonlord,Munchie,,
