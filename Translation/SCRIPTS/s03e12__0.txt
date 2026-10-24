@@ -4745,7 +4745,7 @@ JMP_IFNOT 0xc L_12d5c
 STORE 0x18 0x1 0x0 0x2 0x42140000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_DC 0x8 
-SAY "{VOICE=08}Bring monsters with the 'Immediate Buff' and 'Random Buff' traits!"
+SAY "{VOICE=08}Bring monsters with the 'Starting Buff' and 'Random Buff' traits!"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SAY "{VOICE=08}One monster with both, or two with one each will do."
@@ -4756,7 +4756,7 @@ JMP_IFNOT 0xc L_12e04
 STORE 0x18 0x1 0x0 0x2 0x42180000
 STORE 0x18 0x1 0x3f800000 0x2 0x3f800000
 SYS_DC 0x8 
-SAY "{VOICE=08}Bring a monster with the 'Spell Satisfaction' trait!"
+SAY "{VOICE=08}Bring a monster with the 'Critical Mastermind' trait!"
 JMP_ABS 0xc L_13668
 L_12e04:
 CMP_EQ 0x18 0x0 0x42d60000 0x2 0x40a00000
@@ -4952,10 +4952,10 @@ JMP_IFNOT 0xc L_14138
 SAY "{VOICE=08}Oh, goody, you did! THAT is the beast you were meant to bring!"
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}There's a number of Immediate and Random traits."
+SAY "{VOICE=08}There's a number of Starting and Random traits."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}'Immediate' traits will take effect at the start of a battle."
+SAY "{VOICE=08}'Starting' traits will take effect at the start of a battle."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 SAY "{VOICE=08}'Random' traits can activate at any time. Keep that in mind!"
@@ -4974,7 +4974,7 @@ SYS_44 0x8
 SAY "{VOICE=08}That's a 'critical spell'! A critical hit, delivered by a magic attack."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
-SAY "{VOICE=08}With 'Spell Satisfaction', critical spells become more common."
+SAY "{VOICE=08}With 'Critical Mastermind', critical spells become more common."
 STORE 0x18 0x1 0x0 0x2 0x3f800000
 SYS_44 0x8 
 JMP_ABS 0xc L_15548

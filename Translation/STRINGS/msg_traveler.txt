@@ -87,8 +87,8 @@ Fully restores your monsters' HP and MP.{315}You can use it up to 3 times while 
 Scout Proficiency Test level 1 asks you{315}to bring the Grumble trait!{315}{315}Boppin' badger and Armoured Wartoise{315}have this trait.
 Scout Proficiency Test level 2 asks you{315}to bring 2 Dragon family monsters!{315}{315}Set 2 Dragons in your party{315}and talk to Marsha.{315}Komodo, Dragonthorn and{315}Drag Racer are Dragon-family monsters.
 Scout Proficiency Test level 3 asks you{315}to bring any monster with a Guest mark!{315}{315}Bring one from Tag Mode{315}or downloads to clear it.{315}{315}Any monster will do.
-Scout Proficiency Test level 4 asks you{315}to bring the Immediate Buff and{315}Random Buff traits!{315}{315}One monster may have both,{315}or two monsters one each.{315}Army Ant and Axecutioner{315}have these traits.
-Scout Proficiency Test level 5 asks you{315}to bring the Spell Satisfaction trait!{315}{315}Swingin' Hipster and Damned Ram{315}have this trait.
+Scout Proficiency Test level 4 asks you{315}to bring the Starting Buff and{315}Random Buff traits!{315}{315}One monster may have both,{315}or two monsters one each.{315}Army Ant and Axecutioner{315}have these traits.
+Scout Proficiency Test level 5 asks you{315}to bring the Critical Mastermind trait!{315}{315}Swingin' Hipster and Damned Ram{315}have this trait.
 Scout Proficiency Test level 6 asks you{315}to bring any X-variant monster!{315}{315}Raise an F-D monster above 20{315}and synthesise it with the same monster{315}to create a Strong monster!{315}The other parent only needs level 10.
 Scout Proficiency Test level 7 asks you{315}to bring the Lucky trait!{315}{315}A monster with that trait{315}might be in Unshore.
 Scout Proficiency Test level 8 asks you{315}to bring the Sleep Guard ↑ ability!{315}{315}Give a monster Sleep Guard{315}or Nightmare, then spend enough{315}skill points to learn{315}Sleep Guard ↑.

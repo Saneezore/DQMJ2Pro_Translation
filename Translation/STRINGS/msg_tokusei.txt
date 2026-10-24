@@ -57,7 +57,7 @@ Late Riser
 Loose Cannon
 Rival Riler
 Disenchanted
-Full Critical Guard
+Critical Guard
 Spell Splurger
 Attallergic
 Toss & Turn
@@ -121,11 +121,11 @@ AI　2-3 Actions
 AI　0-4 Actions
 Light Metal Body
 Hard Metal Body
-Immediate Oomph
-Immediate Buff
-Immediate Accelerate
-Immediate Tension
-Immediate Malhaze
+Starting Oomph
+Starting Buff
+Starting Accelerate
+Starting Tension
+Starting Malhaze
 Maximum HP +5
 Maximum HP +10
 Maximum HP +15
@@ -186,9 +186,9 @@ Wisdom +21
 Wisdom +24
 Wisdom +27
 Wisdom +30
-Immediate Ping
-Immediate Brake Wind
-Immediate Kafizzle
+Starting Ping
+Starting Brake Wind
+Starting Kafizzle
 Random Ping
 Random Brake Wind
 Random Kafizzle
@@ -227,20 +227,20 @@ Sap Guard
 Decelerate Guard
 Dim Guard
 Magical Sabotage Guard
-Mega 2-3 Actions
-Mega 2 Actions
-Mega 1-3 Actions
-Mega 0-4 Actions
-Mega 1-2 Actions
-Spell Satisfaction
-Suicidal Satisfaction
-Immediate Netherfog
-Immediate Break Seal
-Giga 2-3 Actions
-Giga 2 Actions
-Giga 1-3 Actions
-Giga 0-4 Actions
-Giga 1-2 Actions
+Big Hitter (2-3)
+Big Hitter (2)
+Big Hitter (1-3)
+Big Hitter (0-4)
+Big Hitter (1-2)
+Critical Mastermind
+Magical Moment
+Starting Netherfog
+Starting Break Seal
+Grand Slammer (2-3)
+Grand Slammer (2)
+Grand Slammer (1-3)
+Grand Slammer (0-4)
+Grand Slammer (1-2)
 Random Oomph
 Random Buff
 Random Accelerate

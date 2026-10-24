@@ -4,12 +4,15 @@ permissions:
   contents: write
 
 on:
+  push:
+    tags:
+      - "gui-v*"
   workflow_dispatch:
     inputs:
       release_tag:
-        description: "Release tag to upload to, e.g. gui-v1.0.3"
+        description: "Release tag to upload to, e.g. gui-v1.3.4"
         required: true
-        default: "gui-v1.0.3"
+        default: "gui-v1.3.4"
 
 jobs:
   windows-legacy:
@@ -20,7 +23,7 @@ jobs:
       - name: Checkout selected tag/ref
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.inputs.release_tag }}
+          ref: ${{ github.event.inputs.release_tag || github.ref_name }}
 
       - name: Read patcher version
         id: version
@@ -165,5 +168,5 @@ jobs:
       - name: Upload Windows Legacy exe to release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.event.inputs.release_tag }}
+          tag_name: ${{ github.event.inputs.release_tag || github.ref_name }}
           files: release-assets/DQMJ2PPatcher-${{ steps.version.outputs.version }}-windows-legacy.exe

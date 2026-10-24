@@ -16,20 +16,20 @@
 
 
 Doubles the chance of evading{315}enemy attacks.
-Reduces damage taken from enemy attacks{315}to 1/3, but MP consumption{315}is tripled.
+Cuts damage sustained from enemy attacks{315}to 1/3, but MP consumption is tripled.
 Allows monsters to psyche up in battle.
-Monster will act twice in succession{315}when not given specific orders.
+Monster always acts twice in a row.
 Doubles the chance of landing a{315}critical hit.
 Damage inflicted on enemies with metal{315}bodies will increase by 1 point.
 Prevents enemies from using{315}Artful Dodger.
 Monster will attack last in battle.
 Monster will attack first in battle.
-Monster may launch a counter-attack{315}when attacked.
+When attacked, monster has a 50% chance{315}to retaliate with a counter-attack.
 Monster may inflict poison on enemies{315}upon being attacked.
 Monster may inflict paralysis on enemies{315}upon being attacked.
-Monster will always be able to flee{315}from a battle.
-Monster recovers a little HP each time{315}they act in battle.
-Monster recovers a little MP each time{315}they act in battle.
+Monster team will always be able to flee{315}from a battle if possible.
+Monster recovers 10% HP each time it{315}acts in battle.
+Monster recovers 10% MP each time it{315}acts in battle.
 Boosts healing spell effects while{315}decreasing MP consumption.
 Boosts Frizz-type magic effects while{315}decreasing MP consumption.
 Boosts Bang-type magic effects while{315}decreasing MP consumption.
@@ -63,7 +63,7 @@ Counter is constantly activated and{315}cannot be removed.
 Attacks often miss the mark, but can{315}deliver critical hits.
 Enables monster to survive fatal damage{315}with 1HP.
 Monster will usually sustain more{315}damage, but will occasionally take{315}none.
-When attacked, monster may{315}retaliate with a powerful counter.
+When attacked, monster has a 25% chance{315}to retaliate with a counter-attack for{315}double the normal damage.
 During battle, monster may{315}lower the tension of all enemies.
 Scout gauge can be boosted when{315}a show of strength is launched.
 Experience points received after a battle{315}are increased by 10%.{315}If multiple monsters in the team possess{315}this trait, this percentage will increase.
@@ -90,15 +90,15 @@ The monster's imposing presence{315}can immobilise enemies at the start{315}of a
 Monster can intimidate enemies and{315}immobilise them at the start of a battle.
 Monster can occasionally become{315}excessively timid and refuse to act.
 Monster can occasionally refuse to{315}listen to orders and not act.
-Monster will carry out an action{315}once or twice in a row when not{315}given specific orders.
-Monster will carry out an action{315}1-3 times in a row when not given{315}specific orders.
+Monster may act twice in a row.
+Monster may act twice or thrice in a{315}row.
 Scout gauge will be boosted{315}considerably when a show of{315}strength is launched.
-Maximum HP may increase or decrease{315}in battle.
-Maximum MP may increase or decrease{315}in battle.
-Attack may increase or decrease{315}in battle.
-Defence may increase or decrease{315}in battle.
-Agility may increase or decrease{315}in battle.
-Wisdom may increase or decrease{315}in battle.
+Monster's maximum HP randomly ranges{315}from -50% to +50% at the start of{315}battles.
+Monster's maximum MP randomly ranges{315}from -50% to +50% at the start of{315}battles.
+Monster's attack randomly ranges from{315}-50% to +50% at the start of battles.
+Monster's defense randomly ranges from{315}-50% to +50% at the start of battles.
+Monster's agility randomly ranges from{315}-50% to +50% at the start of battles.
+Monster's wisdom randomly ranges from{315}-50% to +50% at the start of battles.
 HP increases to 1.5 times its maximum{315}in battle, but attack and defence are{315}both reduced to 1.
 MP increases to 1.5 times its maximum{315}in battle, but attack and wisdom are{315}both reduced to 1.
 Disruptive Wave may be launched{315}automatically during battles.
@@ -122,7 +122,7 @@ Reduces enemies' resistance to{315}Fizzle-type magic.{315}Has no effect on enemi
 Reduces enemies' resistance to{315}Gobstopper.{315}Has no effect on enemies who are{315}impervious to Gobstopper.
 Reduces enemies' resistance to{315}Ban Dance.{315}Has no effect on enemies who are{315}impervious to Ban Dance.
 Reduces enemies' resistance to{315}confusion.{315}Has no effect on enemies who are{315}impervious to confusion.
-Reduces enemies' resistance to{315}missing a turn.{315}Has no effect on enemies who are{315}reistant to missing a turn.
+Reduces enemies' resistance to missing a{315}turn. Has no effect on enemies who are{315}impervious to missing a turn.
 Reduces enemies' resistance to{315}paralysis.{315}Has no effect on enemies who{315}are impervious to paralysis.
 Reduces enemies' resistance to{315}sleep.{315}Has no effect on enemies who{315}are impervious to sleep.
 Reduces enemies' resistance to{315}Sag-type magic.{315}Has no effect on enemies who are{315}impervious to Sag-type magic.
@@ -133,10 +133,10 @@ Reduces enemies' resistance to{315}Magic Frailty.{315}Has no effect on enemies w
 Reduces enemies' resistance to{315}Sizz-type magic.{315}Has no effect on enemies who are{315}impervious to Sizz-type magic.
 Reduces enemies' resistance to{315}Donk-type magic.{315}Has no effect on enemies who are{315}impervious to Donk-type magic.
 Reduces enemies' resistance to all{315}spells, abilities and status ailments.
-Acts 2-3 times in a row.{315}Remaining actions are not cancelled{315}even if orders are given.
-Acts 0-4 times in a row.{315}Remaining actions are not cancelled{315}even if orders are given.
-Reduces damage taken from enemy attacks{315}to 1/2, but MP consumption{315}is doubled.
-Reduces damage taken from enemy attacks{315}to 1/4, but MP consumption{315}is quadrupled.
+Monster always acts twice in a row and{315}may act thrice.
+Monster may act up to four times in a{315}row.
+Cuts damage sustained from enemy attacks{315}to 1/2, but MP consumption is doubled.
+Cuts damage sustained from enemy attacks{315}to 1/4, but MP consumption is{315}quadrupled.
 At the start of battle,{315}may cast Oomph on itself.
 At the start of battle,{315}may cast Kabuff on itself.
 At the start of battle,{315}may cast Acceleratle on itself.
@@ -243,20 +243,20 @@ Increases resistance to Sap-type{315}magic.
 Increases resistance to Decelerate.
 Increases resistance to Dim-type{315}magic.
 Increases resistance to Magic Frailty{315}and Spooky Aura.
-Damages dealt by attacks{315}and skills are increased.{315}Additionally, acts 2-3 times{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
-Damages dealt by attacks{315}and skills are increased.{315}Additionally, acts twice{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
-Damages dealt by attacks{315}and skills are increased.{315}Additionally, acts 1-3 times{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
-Damages dealt by attacks{315}and skills are increased.{315}Additionally, acts 0-4 times{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
-Damages dealt by attacks{315}and skills are increased.{315}Additionally, acts 1-2 times{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
+Increases damage dealt by attacks,{315}skills and abilities. Additionally,{315}monster always acts twice in a row and{315}may act thrice.
+Increases damage dealt by attacks,{315}skills and abilities. Additionally,{315}monster always acts twice in a row.
+Increases damage dealt by attacks,{315}skills and abilities. Additionally,{315}monster may act twice or thrice in a{315}row.
+Increases damage dealt by attacks,{315}skills and abilities. Additionally,{315}monster may act up to four times in a{315}row.
+Increases damage dealt by attacks,{315}skills and abilities. Additionally,{315}monster may act twice.
 The critical hit rate of spells{315}is doubled.
 When near death, the critical hit{315}rate of spells increase.
 At the start of battle,{315}may cast Netherfog.
 At the start of battle,{315}may cast Break Seal.
-Becomes an all-target attacker,{315}and damages dealt by skills are increased.{315}Additionally, acts 2-3 times{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
-Becomes an all-target attacker,{315}and damages dealt by skills are increased.{315}Additionally, acts twice{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
-Becomes an all-target attacker,{315}and damages dealt by skills are increased.{315}Additionally, acts 1-3 times{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
-Becomes an all-target attacker,{315}and damages dealt by skills are increased.{315}Additionally, acts 0-4 times{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
-Becomes an all-target attacker,{315}and damages dealt by skills are increased.{315}Additionally, acts 1-2 times{315}in a row, and remaining actions are{315}not cancelled even if orders are given.
+Attacks strike all enemies, and damage{315}dealt by skills and abilities is{315}increased. Additionally, monster always{315}acts twice in a row and may act thrice.
+Attacks strike all enemies, and damage{315}dealt by skills and abilities is{315}increased. Additionally, monster always{315}acts twice in a row.
+Attacks strike all enemies, and damage{315}dealt by skills and abilities is{315}increased. Additionally, monster may act{315}twice or thrice in a row.
+Attacks strike all enemies, and damage{315}dealt by skills and abilities is{315}increased. Additionally, monster may act{315}up to four times in a row.
+Attacks strike all enemies, and damage{315}dealt by skills and abilities is{315}increased. Additionally, monster may act{315}twice.
 Monster may cast Oomph{315}on itself during battle.
 Monster may cast Buff{315}on itself during battle.
 Monster may cast Acceleratle{315}on itself during battle.
