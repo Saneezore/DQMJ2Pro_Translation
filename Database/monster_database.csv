@@ -1,422 +1,422 @@
 Rank,#,Monster (Eng),Sz.,Family,HP,MP,Atk.,Def.,Agi.,Wis.,Skills (Eng),,,
-F,1,Weedie,1,Slime,760,340,550,660,670,500,Health Professional,Crafty Whacker,Whack Attack,Immediate Accelerate
+F,1,Weedie,1,Slime,760,340,550,660,670,500,Health Professional,Crafty Whacker,Deadly Touch,Starting Accelerate
 F,2,Small Fry,1,Dragon,740,400,660,540,620,320,Artful Dodger,Hit Squad,Giant Killer,Crafty Fire Breather
-F,3,Cruelcucumber,1,Nature,660,480,680,720,430,580,Last Word,Crafty Dimmer,Magic Drain Attack,Counterslammer
-F,4,Pickayune,1,Beast,720,380,620,650,590,560,Fly Swatter,Able Ambusher,Crafty Dazzler,1-2 Moves
-F,5,Wax Murderer,1,Material,650,360,740,750,560,580,Frizzmeister,Crafty Decelerater ,Protective Fog,Crafty Frizzer
-F,6,Winky,1,Demon,660,420,640,820,540,560,Desperado,Crafty Fizzler,Scare Stare,1-2 Moves
-F,7,Firespirit,1,Zombie,780,480,360,670,580,700,Frizzmeister,Crafty Frizzer,Sizzmeister,Magic Drain Attack
-F,8,Slime,1,Slime,720,280,680,570,780,500,Critical Massacre,Crafty Frizzer,Zapmeister,1-2 Moves
-F,9,Komodo,1,Dragon,800,120,760,580,760,200,Crafty Fire Breather,Escape Artist,Lucky,1-2 Moves
-F,10,Swarmtroop,1,Nature,720,300,720,450,800,460,Artful Dodger,Hit Squad (6),Random Brake Wind,1-2 Moves
-F,11,Platypunk,1,Beast,680,380,700,740,580,400,Hit Squad (3),Strangely Alluring,Enemy Tension Down,Random Fizzle
-F,12,Bag O' Laughs,1,Material,700,480,520,580,670,700,Crafty Sleeper,Crafty Inactivist,Immediate Ping,Metal Killer
-F,13,Dracky,1,Demon,640,380,610,670,920,540,Artful Dodger,Crafty Woosher,Crafty Sapper,Ally Tension Rise
-F,14,Ghost,1,Zombie,650,480,580,620,710,700,Artful Dodger,Crafty Fizzler,Crafty Sagger,Sleep Attack
-F,15,Bad Egg,1,Slime,680,380,600,880,580,520,Crafty Gobstopper,Crafty Dance Banner,Magic Drain Body,Rare Tension
-F,16,Frou-Fry,1,Dragon,800,260,700,660,470,300,Fly Swatter,Crafty Fire Breather,Immediate Oomph,Crafty Confuser
-F,17,Capsichum,1,Nature,740,440,560,600,560,560,Ally Tension Rise,Crafty Blade Blunter,Magic Regenerator,Whack Attack
-F,18,Mischievous Mole,1,Beast,710,280,720,700,640,440,Increase Tension,Item Chance Up,Gold Up,1-2 Moves
-F,19,Mud Mannequin,1,Material,700,360,690,800,560,280,Crafty Dance Banner,Crafty Confuser,Magic Drain Attack,1-2 Moves
-F,20,Lips,1,Demon,690,440,640,700,540,480,Crafty Confuser,Crafty Sapper,Random Fizzle,Crafty Inactivist
-F,21,Stump Chump,1,Zombie,740,360,680,820,350,380,Crafty Abiliterator,Crafty Magic Drainer,Magic Drain Attack,Magic Regenerator
-F,22,Bubble Slime,1,Slime,680,460,620,680,580,520,Poison Body,Crafty Zammer,Poison Attack,1-2 Moves
-F,23,Dragonthorn,1,Dragon,780,240,580,820,630,380,Artful Dodger,Crafty Poisoner,Sleep Attack,Crafty Magic Drainer
-F,24,Killarpillar,1,Nature,700,380,620,690,620,580,Desperado,Poison Attack,Immediate Buff,Counterstriker
-F,25,Satyr,1,Beast,740,340,640,700,520,520,Scout Chance Up,Random Fizzle,Crafty Sleeper,Crafty Confuser
-F,26,Ticking Timeburrm,1,Material,710,360,720,720,480,400,Donkmeister,Random Oomph,Random Tension,Random Nether Fog
-F,27,Tree Feller,1,Demon,640,480,620,680,710,500,Artful Dodger,Hit Squad (4),Crafty Confuser,1-2 Moves
-F,28,Funghoul,1,Zombie,680,400,660,700,600,520,Crafty Poisoner,Confusion Attack,Crafty Dazzler,Counterslammer
-F,29,Healslime,1,Slime,640,480,490,660,840,800,Health Professional,Crafty Magic Drainer,Magic Drain Attack,Scare Stare
-F,30,Argon Lizard,1,Dragon,800,160,760,620,620,240,Escape Artist,Paralysis Attack,Early Bird,Crafty Dimmer
-F,31,Army Ant,1,Nature,680,280,740,820,580,480,Immediate Buff,Crafty Abiliterator,Immediate Oomph,Desperado
-F,32,Hammerhood,1,Beast,780,160,800,640,540,360,Increase Tension,Ally Tension Rise,Desperado,Immediate Tension
+F,3,Cruelcumber,1,Nature,660,480,680,720,430,580,Last Word,Crafty Dimmer,Drain Magic,Gamble Counter
+F,4,Pickayune,1,Beast,720,380,620,650,590,560,Fly Swatter,Able Ambusher,Crafty Dazzler,Tactical Trooper
+F,5,Wax Murderer,1,Material,650,360,740,750,560,580,Frizzmeister,Crafty Decelerater ,Random Mist Me,Crafty Frizzer
+F,6,Winky,1,Demon,660,420,640,820,540,560,Desperado,Crafty Fizzler,Scare Stare,Tactical Trooper
+F,7,Firespirit,1,Zombie,780,480,360,670,580,700,Frizzmeister,Crafty Frizzer,Sizzmeister,Drain Magic
+F,8,Slime,1,Slime,720,280,680,570,780,500,Critical Massacre,Crafty Frizzer,Zapmeister,Tactical Trooper
+F,9,Komodo,1,Dragon,800,120,760,580,760,200,Crafty Fire Breather,Escape Artist,Lucky,Tactical Trooper
+F,10,Swarmtroop,1,Nature,720,300,720,450,800,460,Artful Dodger,Hit Squad (6),Random Brake Wind,Tactical Trooper
+F,11,Platypunk,1,Beast,680,380,700,740,580,400,Hit Squad (3),Strangely Alluring,Grumble,Random Kafizzle
+F,12,Bag O' Laughs,1,Material,700,480,520,580,670,700,Crafty Sleeper,Crafty Inactivist,Starting Ping,Metal Killer
+F,13,Dracky,1,Demon,640,380,610,670,920,540,Artful Dodger,Crafty Woosher,Crafty Sapper,Rabble Rouser
+F,14,Ghost,1,Zombie,650,480,580,620,710,700,Artful Dodger,Crafty Fizzler,Crafty Sagger,Sleepy Touch
+F,15,Bad Egg,1,Slime,680,380,600,880,580,520,Crafty Gobstopper,Crafty Dance Banner,Take Magic,Random Tension
+F,16,Frou-Fry,1,Dragon,800,260,700,660,470,300,Fly Swatter,Crafty Fire Breather,Starting Oomph,Crafty Confuser
+F,17,Capsichum,1,Nature,740,440,560,600,560,560,Rabble Rouser,Crafty Blade Blunter,Magic Regenerator,Deadly Touch
+F,18,Mischievous Mole,1,Beast,710,280,720,700,640,440,Psycho,Lootist,Gold Getter,Tactical Trooper
+F,19,Mud Mannequin,1,Material,700,360,690,800,560,280,Crafty Dance Banner,Crafty Confuser,Drain Magic,Tactical Trooper
+F,20,Lips,1,Demon,690,440,640,700,540,480,Crafty Confuser,Crafty Sapper,Random Kafizzle,Crafty Inactivist
+F,21,Stump Chump,1,Zombie,740,360,680,820,350,380,Crafty Abiliterator,Crafty Magic Drainer,Drain Magic,Magic Regenerator
+F,22,Bubble Slime,1,Slime,680,460,620,680,580,520,Poisonous,Crafty Zammer,Poisonous Touch,Tactical Trooper
+F,23,Dragonthorn,1,Dragon,780,240,580,820,630,380,Artful Dodger,Crafty Poisoner,Sleepy Touch,Crafty Magic Drainer
+F,24,Killerpillar,1,Nature,700,380,620,690,620,580,Desperado,Poisonous Touch,Starting Buff,Counterstriker
+F,25,Satyr,1,Beast,740,340,640,700,520,520,Talent Scout,Random Kafizzle,Crafty Sleeper,Crafty Confuser
+F,26,Ticking Timeburrm,1,Material,710,360,720,720,480,400,Donkmeister,Random Oomph,Random Tension,Random Netherfog
+F,27,Tree Feller,1,Demon,640,480,620,680,710,500,Artful Dodger,Hit Squad (4),Crafty Confuser,Tactical Trooper
+F,28,Funghoul,1,Zombie,680,400,660,700,600,520,Crafty Poisoner,Confusing Touch,Crafty Dazzler,Gamble Counter
+F,29,Healslime,1,Slime,640,480,490,660,840,800,Health Professional,Crafty Magic Drainer,Drain Magic,Scare Stare
+F,30,Argon Lizard,1,Dragon,800,160,760,620,620,240,Escape Artist,Paralysing Touch,Early Bird,Crafty Dimmer
+F,31,Army Ant,1,Nature,680,280,740,820,580,480,Starting Buff,Crafty Abiliterator,Starting Oomph,Desperado
+F,32,Hammerhood,1,Beast,780,160,800,640,540,360,Psycho,Rabble Rouser,Desperado,Starting Tension
 F,33,Frostburn,1,Material,700,380,680,630,600,500,Crackmeister,Crafty Ice Breather,Crafty Cracker,Standard Killer
-F,34,Conklave,1,Demon,680,320,660,660,840,440,Hit Squad (4),Scout Chance Up,Increase Tension,1-2 Moves
-F,35,Muddy Hand,1,Zombie,700,420,680,590,570,480,Crafty Abiliterator,Crafty Blade Blunter,Crafty Confuser,Confusion Attack
+F,34,Conklave,1,Demon,680,320,660,660,840,440,Hit Squad (4),Talent Scout,Psycho,Tactical Trooper
+F,35,Muddy Hand,1,Zombie,700,420,680,590,570,480,Crafty Abiliterator,Crafty Blade Blunter,Crafty Confuser,Confusing Touch
 F,36,She-Slime,1,Slime,800,320,600,530,600,460,Frizzmeister,Crafty Dazzler,Crafty Fizzler,Crafty Gobstopper
-F,37,Jargon,1,Dragon,800,160,780,800,300,440,Critical Massacre,Rare Tension,Standard Killer,Desperado
-F,38,Florajay,1,Nature,640,360,640,600,950,580,Immediate Accelerate,Crafty Fizzler,Strangely Alluring,Lucky
-F,39,Scissor Beatle,1,Nature,780,280,660,920,320,320,Increase Tension,Crafty Paralyser,Persistent,Immediate Tension
-F,40,Boppin' Badger,1,Beast,730,180,740,740,660,480,Enemy Tension Down,Exp Up,Scout Chance Up,1-2 Moves
+F,37,Jargon,1,Dragon,800,160,780,800,300,440,Critical Massacre,Random Tension,Standard Killer,Desperado
+F,38,Florajay,1,Nature,640,360,640,600,950,580,Starting Accelerate,Crafty Fizzler,Strangely Alluring,Lucky
+F,39,Scissor Beatle,1,Nature,780,280,660,920,320,320,Psycho,Crafty Paralyser,Stalwart Spirit,Starting Tension
+F,40,Boppin' Badger,1,Beast,730,180,740,740,660,480,Grumble,Fast Learner,Talent Scout,Tactical Trooper
 F,41,Spitnik,1,Material,680,480,680,720,440,400,Bangmeister,Crafty Banger,Late Riser,Counteractivist
-F,42,See Urchin,1,Demon,670,480,480,500,900,800,Artful Dodger,Health Professional,Crafty Dance Banner,Immediate Accelerate
-F,43,Drohl Drone,1,Zombie,680,400,610,620,780,520,Flustered,Magic Drain Body,Crafty Devil,Lucky
-F,44,Drake Slime,1,Slime,700,340,680,560,740,520,Artful Dodger,Crafty Sizzer,Immediate Accelerate,Desperado
-F,45,Dragonfry,1,Dragon,740,360,620,480,840,320,Artful Dodger,Zapmeister,Crafty Saboteur,Standard Killer
-F,46,Hell Hornet,1,Nature,660,340,650,520,980,560,Artful Dodger,Paralysis Attack,Crafty Paralyser,Random Nether Fog
-F,47,Weaken Beakon,1,Beast,700,330,720,560,710,460,Hit Squad (2),Crafty Dimmer,Escape Artist,1-2 Moves
-F,48,Cheeky Tiki,1,Material,720,320,680,980,280,520,Crafty Dazzler,Immediate Brake Wind,Immediate Accelerate,Pressure
+F,42,See Urchin,1,Demon,670,480,480,500,900,800,Artful Dodger,Health Professional,Crafty Dance Banner,Starting Accelerate
+F,43,Drohl Drone,1,Zombie,680,400,610,620,780,520,Yellow-belly,Take Magic,Crafty Devil,Lucky
+F,44,Drake Slime,1,Slime,700,340,680,560,740,520,Artful Dodger,Crafty Sizzer,Starting Accelerate,Desperado
+F,45,Dragonfry,1,Dragon,740,360,620,480,840,320,Artful Dodger,Zapmeister,Crafty Magical Saboteur,Standard Killer
+F,46,Hell Hornet,1,Nature,660,340,650,520,980,560,Artful Dodger,Paralysing Touch,Crafty Paralyser,Random Netherfog
+F,47,Weaken Beakon,1,Beast,700,330,720,560,710,460,Hit Squad (2),Crafty Dimmer,Escape Artist,Tactical Trooper
+F,48,Cheeky Tiki,1,Material,720,320,680,980,280,520,Crafty Dazzler,Starting Brake Wind,Starting Accelerate,Intimidating
 F,49,Heedoovoodoo,1,Demon,690,480,600,550,530,800,Counterstriker,Crafty Dance Banner,Crafty Gobstopper,Comeback Kid
-F,50,Drooling Ghoul,1,Zombie,630,480,660,540,670,780,Sleep Attack,Crafty Decelerater,Crafty Blade Blunter,1-2 Moves
-E,51,Wild Slime,1,Slime,760,260,800,500,480,520,Increase Tension,Crafty Zapper,Immediate Tension,1-2 Moves
-E,52,Boreal Serpent,2,Dragon,1150,320,820,720,590,820,1-2 Mega Moves,Artful Dodger,Crackmeister,Crafty Ice Breather
-E,53,Bantamweight,2,Nature,1020,440,840,660,940,720,1-2 Mega Moves,Artful Dodger,Escape Artist,Random Tension
+F,50,Drooling Ghoul,1,Zombie,630,480,660,540,670,780,Sleepy Touch,Crafty Decelerater,Crafty Blade Blunter,Tactical Trooper
+E,51,Wild Slime,1,Slime,760,260,800,500,480,520,Psycho,Crafty Zapper,Starting Tension,Tactical Trooper
+E,52,Boreal Serpent,2,Dragon,1150,320,820,720,590,820,Big Hitter (1-2),Artful Dodger,Crackmeister,Crafty Ice Breather
+E,53,Bantamweight,2,Nature,1020,440,840,660,940,720,Big Hitter (1-2),Artful Dodger,Escape Artist,Random Tension
 E,54,Powie Yowie,1,Beast,740,260,760,680,460,520,Hit Squad (2),Crafty Ice Breather,Crackmeister,Counterstriker
-E,55,Pocus Poppet,1,Material,660,480,580,670,600,740,Crafty Saboteur,Crafty Dimmer,Counterslammer,Metal Killer
-E,56,Frogface,1,Demon,680,420,680,620,540,640,Immediate Oomph,Crafty Whacker,Crafty Gobstopper,Whack Attack
-E,57,Mummy Boy,1,Zombie,720,400,660,700,500,400,Sleep Attack,Crafty Decelerater,Critical Massacre,Crafty Saboteur
-E,58,Shell Slime,1,Slime,780,480,420,960,240,560,Scout Chance Up,Crafty Saboteur,Immediate Buff,Critical Guard
-E,59,Nardragon,1,Dragon,760,260,760,660,500,320,Increase Tension,Crafty Inactivist,Crafty Abiliterator,Whack Attack
-E,60,Mental Pitcher,1,Nature,660,460,680,660,460,720,Poison Attack,Sizzmeister,Crafty Abiliterator,Magic Drain Attack
-E,61,Pan Piper,1,Beast,730,320,630,700,540,680,Sleep Attack,Crafty Sleeper,Desperado,Ally Tension Rise
-E,62,Axecutioner,1,Material,760,240,740,660,440,600,Crafty Decelerater,Random Buff,Critical Massacre,1-2 Moves
-E,63,Headhunter,1,Demon,660,340,800,660,700,240,Metal Beater,Crafty Whacker,Metal Killer,Whack Attack
-E,64,Demonrider,1,Zombie,680,220,680,700,880,600,Counterstriker,Crafty Sagger,Immediate Oomph,Early Bird
-E,65,Mottle Slime,1,Slime,720,360,620,640,660,520,Crafty Zapper,Donkmeister,Imaginative,1-2 Moves
-E,66,Snapdragon,1,Dragon,760,230,720,810,400,500,Artful Dodger,Immediate Brake Wind,Frizzmeister,1-2 Moves
-E,67,Cactiball,1,Nature,720,230,800,630,580,500,Fly Swatter,Crafty Dance Banner,Counterstriker,Crafty Saboteur
-E,68,Vampire Cat,1,Beast,700,320,560,590,860,780,Artful Dodger,Early Bird,Random Fizzle,Crafty Fizzler
-E,69,Rockbomb,1,Material,760,210,710,940,240,680,Increase Tension,Random Tension,Rare Tension,Crafty Whacker
-E,70,Lump Wizard,1,Demon,680,480,460,720,680,800,Health Professional,Crafty Magic Drainer,Wooshmeister,Magic Drain Attack
-E,71,Swingin' Hipster,1,Zombie,660,360,660,480,880,720,Hit Squad,Imaginative,Metal Killer,Sleep Attack
-E,72,Drohl Diabolist,1,Zombie,760,360,540,570,680,620,Scout Chance Up,Crafty Magic Drainer,Magic Counter,Crafty Devil
-E,73,Drag Racer,1,Dragon,760,140,740,580,920,200,Immediate Tension,Crafty Fire Breather,Crafty Ice Breather,Critical Massacre
-E,74,Great Sabercub,1,Nature,720,180,740,740,720,440,Hit Squad,Crafty Gobstopper,Crafty Whacker,Crafty Saboteur
-E,75,Snowbird,1,Beast,680,400,660,560,680,640,Artful Dodger,Crafty Ice Breather,Random Fizzle,Close Scraper
-E,76,Danging Flame,1,Material,660,420,660,700,600,600,Frizzmeister,Crafty Frizzer,Crafty Fire Breather,Standard Killer
+E,55,Pocus Poppet,1,Material,660,480,580,670,600,740,Crafty Magical Saboteur,Crafty Dimmer,Gamble Counter,Metal Killer
+E,56,Frogface,1,Demon,680,420,680,620,540,640,Starting Oomph,Crafty Whacker,Crafty Gobstopper,Deadly Touch
+E,57,Mummy Boy,1,Zombie,720,400,660,700,500,400,Sleepy Touch,Crafty Decelerater,Critical Massacre,Crafty Magical Saboteur
+E,58,Shell Slime,1,Slime,780,480,420,960,240,560,Talent Scout,Crafty Magical Saboteur,Starting Buff,Critical Guard
+E,59,Nardragon,1,Dragon,760,260,760,660,500,320,Psycho,Crafty Inactivist,Crafty Abiliterator,Deadly Touch
+E,60,Mental Pitcher,1,Nature,660,460,680,660,460,720,Poisonous Touch,Sizzmeister,Crafty Abiliterator,Drain Magic
+E,61,Pan Piper,1,Beast,730,320,630,700,540,680,Sleepy Touch,Crafty Sleeper,Desperado,Rabble Rouser
+E,62,Axecutioner,1,Material,760,240,740,660,440,600,Crafty Decelerater,Random Buff,Critical Massacre,Tactical Trooper
+E,63,Headhunter,1,Demon,660,340,800,660,700,240,Metal Beater,Crafty Whacker,Metal Killer,Deadly Touch
+E,64,Demonrider,1,Zombie,680,220,680,700,880,600,Counterstriker,Crafty Sagger,Starting Oomph,Early Bird
+E,65,Mottle Slime,1,Slime,720,360,620,640,660,520,Crafty Zapper,Donkmeister,Critical Mastermind,Tactical Trooper
+E,66,Snapdragon,1,Dragon,760,230,720,810,400,500,Artful Dodger,Starting Brake Wind,Frizzmeister,Tactical Trooper
+E,67,Cactiball,1,Nature,720,230,800,630,580,500,Fly Swatter,Crafty Dance Banner,Counterstriker,Crafty Magical Saboteur
+E,68,Vampire Cat,1,Beast,700,320,560,590,860,780,Artful Dodger,Early Bird,Random Kafizzle,Crafty Fizzler
+E,69,Rockbomb,1,Material,760,210,710,940,240,680,Psycho,Random Tension,Random Tension,Crafty Whacker
+E,70,Lump Wizard,1,Demon,680,480,460,720,680,800,Health Professional,Crafty Magic Drainer,Wooshmeister,Drain Magic
+E,71,Swingin' Hipster,1,Zombie,660,360,660,480,880,720,Hit Squad,Critical Mastermind,Metal Killer,Sleepy Touch
+E,72,Drohl Diabolist,1,Zombie,760,360,540,570,680,620,Talent Scout,Crafty Magic Drainer,Bouncer,Crafty Devil
+E,73,Drag Racer,1,Dragon,760,140,740,580,920,200,Starting Tension,Crafty Fire Breather,Crafty Ice Breather,Critical Massacre
+E,74,Great Sabrecub,1,Nature,720,180,740,740,720,440,Hit Squad,Crafty Gobstopper,Crafty Whacker,Crafty Magical Saboteur
+E,75,Snowbird,1,Beast,680,400,660,560,680,640,Artful Dodger,Crafty Ice Breather,Random Kafizzle,Close Scraper
+E,76,Dancing Flame,1,Material,660,420,660,700,600,600,Frizzmeister,Crafty Frizzer,Crafty Fire Breather,Standard Killer
 E,77,Imp,1,Demon,680,280,680,680,680,800,Bangmeister,Crafty Banger,Crafty Fire Breather,Disruptive Wave
-E,78,Skipper,1,Zombie,660,380,600,860,680,520,Escape Artist,Crafty Dance Banner,Rare Tension,Early Bird
-E,79,Snail Slime,1,Slime,720,400,640,1000,160,560,Escape Artist,Magic Barrier,Early Bird,Light Metal Body
-E,80,Green Dragon,2,Dragon,1300,240,760,670,460,540,1-2 Mega Moves,Able Ambusher,Crafty Fire Breather,Crafty Zapper
+E,78,Skipper,1,Zombie,660,380,600,860,680,520,Escape Artist,Crafty Dance Banner,Random Tension,Early Bird
+E,79,Snail Slime,1,Slime,720,400,640,1000,160,560,Escape Artist,Random Magic Barrier,Early Bird,Light Metal Body
+E,80,Green Dragon,2,Dragon,1300,240,760,670,460,540,Big Hitter (1-2),Able Ambusher,Crafty Fire Breather,Crafty Zapper
 E,81,Chimaera,1,Nature,660,420,680,640,600,640,Artful Dodger,Hit Squad (2),Giant Killer,Desperado
-E,82,Chainine,1,Beast,680,300,700,700,680,600,Hit Squad (2),Immediate Fizzle,Crafty Dimmer,1-2 Moves
-E,83,Dingaling,1,Material,640,420,560,880,640,720,Confusion Attack,Gambling Body,Crafty Donker,Lucky
-E,84,Gruffon,1,Demon,800,400,560,800,300,360,Hit Squad,Restless ,Crafty Donker,Random Oomph
-E,85,Hellhound,1,Zombie,700,180,700,820,740,560,Increase Tension,Fly Swatter,Random Accelerate,Intimidating
-E,86,Snowmangler,1,Slime,660,400,700,740,480,680,Crackmeister,Crafty Cracker,Crafty Whacker,Immediate Accelerate
+E,82,Chainine,1,Beast,680,300,700,700,680,600,Hit Squad (2),Starting Fizzle,Crafty Dimmer,Tactical Trooper
+E,83,Dingaling,1,Material,640,420,560,880,640,720,Confusing Touch,Perilous Parrier,Crafty Donker,Lucky
+E,84,Gruffon,1,Demon,800,400,560,800,300,360,Hit Squad,Toss & Turn ,Crafty Donker,Random Oomph
+E,85,Hellhound,1,Zombie,700,180,700,820,740,560,Psycho,Fly Swatter,Random Accelerate,Imposing
+E,86,Snowmangler,1,Slime,660,400,700,740,480,680,Crackmeister,Crafty Cracker,Crafty Whacker,Starting Accelerate
 E,87,Damselfly,1,Dragon,660,420,580,460,940,720,Artful Dodger,Crafty Dazzler,Crafty Sleeper,Crafty Inactivist
-E,88,Bullfinch,1,Nature,660,380,720,680,600,560,Counterstriker,Crafty Sleeper,Increase Tension,Immediate Tension
+E,88,Bullfinch,1,Nature,660,380,720,680,600,560,Counterstriker,Crafty Sleeper,Psycho,Starting Tension
 E,89,Teeny Sanguini,1,Beast,600,480,600,640,880,640,Artful Dodger,Strangely Alluring,Early Bird,Wave of Relief
-E,90,Goodybag,1,Material,620,480,560,780,680,760,Close Scraper,Crafty Confuser,Crafty Saboteur,Magic Counter
-E,91,Dancing Devil,1,Demon,720,460,420,700,720,680,Enemy Tension Reset,Crafty Donker,Crafty Dimmer,1-2 Moves
-E,92,Flyguy,1,Zombie,660,360,640,660,890,420,Artful Dodger,Crafty Dimmer,Poison Body,Crafty Poisoner
-D,93,Slime Knight,1,Slime,660,420,660,740,560,600,Counterstriker,Crafty Banger,Crafty Sapper,Immediate Oomph
+E,90,Goodybag,1,Material,620,480,560,780,680,760,Close Scraper,Crafty Confuser,Crafty Magical Saboteur,Bouncer
+E,91,Dancing Devil,1,Demon,720,460,420,700,720,680,Heckling Hector,Crafty Donker,Crafty Dimmer,Tactical Trooper
+E,92,Flyguy,1,Zombie,660,360,640,660,890,420,Artful Dodger,Crafty Dimmer,Poisonous,Crafty Poisoner
+D,93,Slime Knight,1,Slime,660,420,660,740,560,600,Counterstriker,Crafty Banger,Crafty Sapper,Starting Oomph
 D,94,Skelegon,1,Dragon,800,240,720,600,480,400,Crackmeister,Zammeister,Steady Recovery,Crafty Ice Breather
-D,95,Wild Boarfish,1,Nature,620,440,680,680,680,640,Paralysing Body,Crafty Inactivist,Poison Attack,Crafty Paralyser
-D,96,Night Emperor,1,Beast,680,440,680,680,460,600,Artful Dodger,Crafty Sleeper,Restless ,Counterslammer
-D,97,Cannibox,1,Material,720,280,720,800,490,460,Desperado,Item Chance Up,Crafty Sleeper,Crafty Whacker
-D,98,Desert Demon,1,Demon,760,340,680,640,360,640,Critical Massacre,Crafty Donker,Close Scraper,Metal Killer
-D,99,Hyper Heyedra,1,Zombie,760,280,680,480,580,760,Hit Squad (3),Crafty Zammer,Counterslammer,Paralysing Body
-D,100,Metal Slime,1,Slime,20,480,500,1200,1200,720,Metal Body,Flustered,Crafty Zapper,Comeback Kid
-D,101,Rubble Slime,1,Slime,760,220,640,860,480,600,Gambling Body,Immediate Buff,Steady Recovery,Critical Guard
-D,102,Dragurn,1,Dragon,790,180,680,880,480,320,Exp Up,Gold Up,Item Chance Up,Scout Chance Up
-D,103,Jailcat,1,Nature,700,300,660,660,700,640,Crackmeister,Strangely Alluring,Restless ,Late Riser
-D,104,Sea Dog,1,Beast,680,400,720,560,680,400,Wooshmeister,Giant Killer,Fly Swatter,Enemy Tension Reset
-D,105,Shadow,1,Material,620,480,540,650,860,740,Zammeister,Hit Squad (2),Counterslammer,Magic Drain Body
-D,106,Anchorman,1,Material,720,300,700,930,300,580,Crafty Sapper,Crafty Donker,Magic Barrier,Desperado
-D,107,Lesser Demon,1,Demon,680,480,580,600,580,760,Crafty Donker,Crafty Saboteur,Crafty Sizzer,Enemy Tension Reset
-D,108,Discombombulator,1,Zombie,700,420,660,580,560,600,Artful Dodger,Hit Squad (3),Confusion Attack,Metal Killer
+D,95,Wild Boarfish,1,Nature,620,440,680,680,680,640,Paralysing,Crafty Inactivist,Poisonous Touch,Crafty Paralyser
+D,96,Night Emperor,1,Beast,680,440,680,680,460,600,Artful Dodger,Crafty Sleeper,Toss & Turn ,Gamble Counter
+D,97,Cannibox,1,Material,720,280,720,800,490,460,Desperado,Lootist,Crafty Sleeper,Crafty Whacker
+D,98,Dessert Demon,1,Demon,760,340,680,640,360,640,Critical Massacre,Crafty Donker,Close Scraper,Metal Killer
+D,99,Hyper Heyedra,1,Zombie,760,280,680,480,580,760,Hit Squad (3),Crafty Zammer,Gamble Counter,Paralysing
+D,100,Metal Slime,1,Slime,20,480,500,1200,1200,720,Metal Body,Yellow-belly,Crafty Zapper,Comeback Kid
+D,101,Rubble Slime,1,Slime,760,220,640,860,480,600,Perilous Parrier,Starting Buff,Steady Recovery,Critical Guard
+D,102,Dragurn,1,Dragon,790,180,680,880,480,320,Fast Learner,Gold Getter,Lootist,Talent Scout
+D,103,Jailcat,1,Nature,700,300,660,660,700,640,Crackmeister,Strangely Alluring,Toss & Turn ,Late Riser
+D,104,Sea Dog,1,Beast,680,400,720,560,680,400,Wooshmeister,Giant Killer,Fly Swatter,Heckling Hector
+D,105,Shadow,1,Material,620,480,540,650,860,740,Zammeister,Hit Squad (2),Gamble Counter,Take Magic
+D,106,Anchorman,1,Material,720,300,700,930,300,580,Crafty Sapper,Crafty Donker,Random Magic Barrier,Desperado
+D,107,Lesser Demon,1,Demon,680,480,580,600,580,760,Crafty Donker,Crafty Magical Saboteur,Crafty Sizzer,Heckling Hector
+D,108,Discombombulator,1,Zombie,700,420,660,580,560,600,Artful Dodger,Hit Squad (3),Confusing Touch,Metal Killer
 D,109,Angel Slime,1,Slime,660,480,480,620,820,800,Artful Dodger,Health Professional,Comeback Kid,Lucky
 D,110,Gasbagon,1,Dragon,760,320,680,880,240,480,Last Word,Crafty Frizzer,Zapmeister,Magic Regenerator
-D,111,Spiked Hare,1,Nature,730,260,620,660,780,560,Increase Tension,Crafty Zapper,Confused Frenzy,Whack Attack
-D,112,Rockin' Rockhopper,1,Nature,660,420,560,640,860,600,Lucky,Wooshmeister,Crafty Woosher,Persistent
+D,111,Spiked Hare,1,Nature,730,260,620,660,780,560,Psycho,Crafty Zapper,Berserker,Deadly Touch
+D,112,Rockin' Rockhopper,1,Nature,660,420,560,640,860,600,Lucky,Wooshmeister,Crafty Woosher,Stalwart Spirit
 D,113,Fencing Fox,1,Beast,620,360,710,660,860,520,Early Bird,Donkmeister,Fly Swatter,Counterstriker
-D,114,Moai Minstrel,2,Material,1100,520,740,820,420,880,1-2 Mega Moves,Crafty Blade Blunter,Crafty Gobstopper,Crafty Dance Banner
-D,115,Foo Dog,1,Material,720,380,650,580,560,640,Last Word,Persistent,Immediate Buff,Crafty Donker
-D,116,Cross Eye,1,Demon,760,380,680,680,260,600,Hit Squad,Restless ,Crafty Paralyser,Immediate Tension
+D,114,Moai Minstrel,2,Material,1100,520,740,820,420,880,Big Hitter (1-2),Crafty Blade Blunter,Crafty Gobstopper,Crafty Dance Banner
+D,115,Foo Dog,1,Material,720,380,650,580,560,640,Last Word,Stalwart Spirit,Starting Buff,Crafty Donker
+D,116,Cross Eye,1,Demon,760,380,680,680,260,600,Hit Squad,Toss & Turn ,Crafty Paralyser,Starting Tension
 D,117,Skeleton,1,Zombie,790,240,720,620,480,440,Crafty Abiliterator,Counterstriker,Close Scraper,Disruptive Wave
-D,118,Mottle King Slime,1,Slime,800,260,720,640,340,520,Magic Barrier,Crafty Sleeper,Confused Frenzy,1-2 Moves
-D,119,Seasaur,1,Dragon,780,180,780,880,280,400,Artful Dodger,Protective Fog,Crafty Ice Breather,Steady Recovery
-D,120,Boring Bug,1,Nature,660,360,680,680,650,700,Crafty Decelerater,Crafty Sagger,Crafty Sapper,Immediate Oomph
-D,121,Orc,1,Beast,700,360,700,600,580,600,Health Professional,Immediate Ping,Crafty Blade Blunter,1-2 Moves
-D,122,Chariot Chappie,1,Material,630,380,720,780,640,520,Crafty Abiliterator,Random Accelerate,Whack Attack,Crafty Whacker
-D,123,Gold Golem,1,Material,760,300,700,840,320,400,Increase Tension,Crafty Decelerater,Crafty Magic Drainer,Crafty Gobstopper
-D,124,Silvapithecus,1,Demon,700,440,520,700,600,760,Crafty Fizzler,Sizzmeister,Crafty Sizzer,Magic Counter
-D,125,Behemoth Slime,1,Slime,800,420,660,680,160,400,Increase Tension,Desperado,Crafty Dance Banner,Restless
-D,126,Red Dragon,2,Dragon,1200,240,960,680,380,680,1-2 Mega Moves,Crafty Sleeper,Crafty Ice Breather,Immediate Nether Fog
-D,127,Crabid,1,Nature,680,260,640,980,680,440,Close Scraper,Crafty Magic Drainer,Immediate Buff,Lucky
-D,128,Scorpion,1,Nature,660,300,700,1000,520,480,Critical Massacre,Paralysis Attack,Crafty Poisoner,Light Metal Body
+D,118,Mottle King Slime,1,Slime,800,260,720,640,340,520,Random Magic Barrier,Crafty Sleeper,Berserker,Tactical Trooper
+D,119,Seasaur,1,Dragon,780,180,780,880,280,400,Artful Dodger,Random Mist Me,Crafty Ice Breather,Steady Recovery
+D,120,Boring Bug,1,Nature,660,360,680,680,650,700,Crafty Decelerater,Crafty Sagger,Crafty Sapper,Starting Oomph
+D,121,Orc,1,Beast,700,360,700,600,580,600,Health Professional,Starting Ping,Crafty Blade Blunter,Tactical Trooper
+D,122,Chariot Chappie,1,Material,630,380,720,780,640,520,Crafty Abiliterator,Random Accelerate,Deadly Touch,Crafty Whacker
+D,123,Gold Golem,1,Material,760,300,700,840,320,400,Psycho,Crafty Decelerater,Crafty Magic Drainer,Crafty Gobstopper
+D,124,Silvapithecus,1,Demon,700,440,520,700,600,760,Crafty Fizzler,Sizzmeister,Crafty Sizzer,Bouncer
+D,125,Behemoth Slime,1,Slime,800,420,660,680,160,400,Psycho,Desperado,Crafty Dance Banner,Toss & Turn
+D,126,Red Dragon,2,Dragon,1200,240,960,680,380,680,Big Hitter (1-2),Crafty Sleeper,Crafty Ice Breather,Starting Nether Fog
+D,127,Crabid,1,Nature,680,260,640,980,680,440,Close Scraper,Crafty Magic Drainer,Starting Buff,Lucky
+D,128,Scorpion,1,Nature,660,300,700,1000,520,480,Critical Massacre,Paralysing Touch,Crafty Poisoner,Light Metal Body
 D,129,Weartiger,1,Beast,700,320,680,770,540,580,Critical Massacre,Hit Squad,Scare Stare,Crafty Dance Banner
-D,130,Brownie,1,Beast,700,220,880,700,440,520,Increase Tension,Scout Chance Up,Desperado,Immediate Tension
-D,131,Mecha-Mynah,1,Material,680,360,620,940,520,520,Artful Dodger,Exp Up,Electrifying,Metal Killer
+D,130,Brownie,1,Beast,700,220,880,700,440,520,Psycho,Talent Scout,Desperado,Starting Tension
+D,131,Mecha-Mynah,1,Material,680,360,620,940,520,520,Artful Dodger,Fast Learner,Static,Metal Killer
 D,132,Wrecktor,1,Demon,720,480,540,560,520,800,Zammeister,Crafty Dimmer,Crafty Banger,Wave of Relief
 D,133,Phantom Fencer,1,Zombie,620,380,760,480,860,600,Artful Dodger,Giant Killer,Critical Massacre,Fly Swatter
-D,134,Metal Slime Knight,1,Slime,660,320,660,860,680,520,Light Metal Body,Counterstriker,Crafty Paralyser,Immediate Oomph
-D,135,Sentripede,1,Nature,740,260,700,1030,280,420,Paralysis Attack,Random Buff,Paralysing Body,Light Metal Body
-D,136,Eveel,1,Nature,700,320,680,680,680,480,Poison Attack,Crafty Sagger,Critical Massacre,Crafty Decelerater
-D,137,Battering Ram,1,Beast,660,340,680,820,500,800,Random Fizzle,Imaginative,Crafty Fizzler,Close Scraper
-D,138,Firn Fiend,1,Material,720,360,660,660,480,680,Crackmeister,Crafty Ice Breather,Immediate Oomph,Crafty Cracker
-D,139,Prickly Prankster,1,Demon,700,260,730,420,920,560,Zapmeister,Random Accelerate,Crafty Zapper,1-2 Moves
+D,134,Metal Slime Knight,1,Slime,660,320,660,860,680,520,Light Metal Body,Counterstriker,Crafty Paralyser,Starting Oomph
+D,135,Sentripede,1,Nature,740,260,700,1030,280,420,Paralysing Touch,Random Buff,Paralysing,Light Metal Body
+D,136,Eveel,1,Nature,700,320,680,680,680,480,Poisonous Touch,Crafty Sagger,Critical Massacre,Crafty Decelerater
+D,137,Damned Ram,1,Beast,660,340,680,820,500,800,Random Kafizzle,Critical Mastermind,Crafty Fizzler,Close Scraper
+D,138,Firn Fiend,1,Material,720,360,660,660,480,680,Crackmeister,Crafty Ice Breather,Starting Oomph,Crafty Cracker
+D,139,Prickly Prankster,1,Demon,700,260,730,420,920,560,Zapmeister,Random Accelerate,Crafty Zapper,Tactical Trooper
 D,140,Bona Constrictor,1,Zombie,720,340,640,640,680,480,Crafty Dance Banner,Crafty Cracker,Random Accelerate,Close Scraper
 D,141,Beshemoth Slime,1,Slime,800,280,700,740,280,440,Frizzmeister,Desperado,Crafty Inactivist,Crafty Paralyser
 D,142,Aquestrian Gladiator,1,Dragon,680,280,740,680,620,680,Fly Swatter,Crafty Blade Blunter,Standard Killer,Critical Guard
-D,143,Khalamari Kid,1,Nature,680,400,680,660,540,640,Strangely Alluring,Crafty Magic Drainer,Crafty Cracker,Magic Drain Attack
-D,144,Wormongor,3,Nature,1950,220,680,620,540,480,1-3 Giga Moves,Poison Body,Paralysing Body,Crafty Donker
-D,145,Bodkin Archer,1,Beast,740,360,620,680,620,360,Crafty Poisoner,Rare Tension,Poison Attack,Critical Massacre
-D,146,Harmour,1,Material,750,220,740,940,280,520,Crafty Zammer,Gambling Body,Metal Beater,Critical Guard
+D,143,Khalamari Kid,1,Nature,680,400,680,660,540,640,Strangely Alluring,Crafty Magic Drainer,Crafty Cracker,Drain Magic
+D,144,Wormonger,3,Nature,1950,220,680,620,540,480,Grand Slammer (1-3),Poisonous,Paralysing,Crafty Donker
+D,145,Bodkin Archer,1,Beast,740,360,620,680,620,360,Crafty Poisoner,Random Tension,Poisonous Touch,Critical Massacre
+D,146,Harmour,1,Material,750,220,740,940,280,520,Crafty Zammer,Perilous Parrier,Metal Beater,Critical Guard
 D,147,Robbin' Huddle,1,Demon,740,280,720,600,600,480,Hit Squad,Crafty Zapper,Random Accelerate,Donkmeister
-D,148,Dangler Fish,1,Demon,640,400,700,620,660,720,Sizzmeister,Crafty Paralyser,Crafty Gobstopper,Immediate Oomph
-C,149,Dragon Slime,1,Slime,760,400,780,680,800,640,Artful Dodger,Crafty Sapper,Protective Fog,Crafty Fire Breather
+D,148,Dangler Fish,1,Demon,640,400,700,620,660,720,Sizzmeister,Crafty Paralyser,Crafty Gobstopper,Starting Oomph
+C,149,Dragon Slime,1,Slime,760,400,780,680,800,640,Artful Dodger,Crafty Sapper,Random Mist Me,Crafty Fire Breather
 C,150,Hacksaurus,1,Dragon,880,160,900,640,700,440,Hit Squad (2),Giant Killer,Scare Stare,Hopeful Hitter
-C,151,Hades Condor,1,Nature,840,440,730,660,630,420,Artful Dodger,Crafty Dazzler,Crafty Dimmer,Immediate Accelerate
-C,152,Bewarewolf,1,Beast,740,400,780,680,780,840,Hit Squad (3),Increase Tension,Immediate Buff,Immediate Tension
-C,153,Mortoad,2,Beast,1400,580,760,620,440,520,1-2 Mega Moves,Hit Squad (4),Imaginative,Paralysing Body
-C,154,Puppeteer,1,Material,700,540,720,710,720,900,Ally Tension Rise,Enemy Tension Reset,Enemy Tension Rise,Enemy Tension Down
-C,155,Aggrosculpture,1,Demon,780,400,800,900,480,600,Bangmeister,Crafty Banger,Poison Attack,Crafty Poisoner
-C,156,Dark Crab,1,Zombie,700,320,620,980,360,560,1-2 Moves,Close Scraper,Unlucky,Light Metal Body
-C,157,Slime Stack,1,Slime,780,420,760,730,660,660,Hit Squad (3),Exp Up,Protective Fog,1-2 Moves
-C,158,Armoured Wartoise,1,Dragon,860,540,460,960,380,840,Hit Squad,Counterslammer,Enemy Tension Down,Critical Guard
-C,159,Whackanape,1,Nature,880,200,840,600,760,480,Hit Squad (3),Hopeful Hitter,Immediate Tension,Donkmeister
-C,160,Great Sabercat,1,Nature,860,120,900,560,960,400,Hit Squad (2),Early Bird,Crafty Woosher,1-2 Moves
-C,161,Trigertaur,1,Beast,780,480,720,620,700,720,Steady Recovery,Crafty Sapper,Random Fizzle,1-2 Moves
-C,162,Gargoyle,1,Beast,760,460,760,720,720,560,Artful Dodger,Donkmeister,Immediate Fizzle,1-2 Moves
-C,163,King Kelp,1,Material,720,540,700,800,640,800,Ally Tension Rise,Crafty Blade Blunter,Enemy Tension Down,Immediate Ping
+C,151,Hades Condor,1,Nature,840,440,730,660,630,420,Artful Dodger,Crafty Dazzler,Crafty Dimmer,Starting Accelerate
+C,152,Bewarewolf,1,Beast,740,400,780,680,780,840,Hit Squad (3),Psycho,Starting Buff,Starting Tension
+C,153,Mortoad,2,Beast,1400,580,760,620,440,520,Big Hitter (1-2),Hit Squad (4),Critical Mastermind,Paralysing
+C,154,Puppeteer,1,Material,700,540,720,710,720,900,Rabble Rouser,Heckling Hector,Rival Riler,Grumble
+C,155,Aggrosculpture,1,Demon,780,400,800,900,480,600,Bangmeister,Crafty Banger,Poisonous Touch,Crafty Poisoner
+C,156,Dark Crab,1,Zombie,700,320,620,980,360,560,Tactical Trooper,Close Scraper,Unlucky,Light Metal Body
+C,157,Slime Stack,1,Slime,780,420,760,730,660,660,Hit Squad (3),Fast Learner,Random Mist Me,Tactical Trooper
+C,158,Armoured Wartoise,1,Dragon,860,540,460,960,380,840,Hit Squad,Gamble Counter,Grumble,Critical Guard
+C,159,Whackanape,1,Nature,880,200,840,600,760,480,Hit Squad (3),Hopeful Hitter,Starting Tension,Donkmeister
+C,160,Great Sabrecat,1,Nature,860,120,900,560,960,400,Hit Squad (2),Early Bird,Crafty Woosher,Tactical Trooper
+C,161,Trigertaur,1,Beast,780,480,720,620,700,720,Steady Recovery,Crafty Sapper,Random Kafizzle,Tactical Trooper
+C,162,Gargoyle,1,Beast,760,460,760,720,720,560,Artful Dodger,Donkmeister,Starting Fizzle,Tactical Trooper
+C,163,King Kelp,1,Material,720,540,700,800,640,800,Rabble Rouser,Crafty Blade Blunter,Grumble,Starting Ping
 C,164,Great Dracky,1,Demon,820,200,780,820,840,600,Artful Dodger,Crafty Woosher,Random Accelerate,Wave of Relief
-C,165,Walking Corrpse,1,Zombie,900,320,840,660,420,400,Poison Body,Crafty Poisoner,Random Nether Fog,1-2 Moves
+C,165,Walking Corpse,1,Zombie,900,320,840,660,420,400,Poisonous,Crafty Poisoner,Random Netherfog,Tactical Trooper
 C,166,Sea Dragon,1,Dragon,800,440,720,720,660,600,Artful Dodger,Crafty Ice Breather,Crafty Sapper,Crafty Dazzler
-C,167,Treeface,2,Nature,1250,660,850,720,450,820,1-2 Mega Moves,Hit Squad (2),Despellado,Crafty Magic Drainer
+C,167,Treeface,2,Nature,1250,660,850,720,450,820,Big Hitter (1-2),Hit Squad (2),Magical Moment,Crafty Magic Drainer
 C,168,Merman,1,Beast,780,400,720,840,740,520,Crafty Abiliterator,Crafty Sapper,Random Tension,Health Professional
 C,169,Octagoon,1,Material,800,380,780,920,440,640,Hit Squad,Crafty Donker,Crafty Sagger,Steady Recovery
-C,170,Malevolamp,1,Material,780,400,700,750,820,620,Hit Squad,Ally Tension Rise,Immediate Buff,Magic Barrier
-C,171,Octavian Sentry,1,Demon,760,500,720,790,620,620,Able Ambusher,Crafty Dazzler,Crafty Sagger,1-2 Moves
-C,172,Restless Armour,1,Zombie,760,400,740,980,620,560,Increase Tension,Crafty Donker,Able Ambusher,Metal Beater
-C,173,King Slime,1,Slime,880,340,640,780,520,840,Critical Massacre,Close Scraper,Magic Barrier,Intimidating
-C,174,Noble Gasbagon,1,Dragon,840,300,820,840,540,440,Artful Dodger,Able Ambusher,Crafty Banger,Immediate Tension
-C,175,Paws,1,Nature,820,280,800,700,780,560,Hit Squad (2),Enemy Tension Reset,Random Tension,Whack Attack
+C,170,Malevolamp,1,Material,780,400,700,750,820,620,Hit Squad,Rabble Rouser,Starting Buff,Random Magic Barrier
+C,171,Octavian Sentry,1,Demon,760,500,720,790,620,620,Able Ambusher,Crafty Dazzler,Crafty Sagger,Tactical Trooper
+C,172,Toss & Turn Armour,1,Zombie,760,400,740,980,620,560,Psycho,Crafty Donker,Able Ambusher,Metal Beater
+C,173,King Slime,1,Slime,880,340,640,780,520,840,Critical Massacre,Close Scraper,Random Magic Barrier,Imposing
+C,174,Noble Gasbagon,1,Dragon,840,300,820,840,540,440,Artful Dodger,Able Ambusher,Crafty Banger,Starting Tension
+C,175,Paws,1,Nature,820,280,800,700,780,560,Hit Squad (2),Heckling Hector,Random Tension,Deadly Touch
 C,176,Jumping Jackal,1,Beast,800,320,820,600,920,400,Able Ambusher,Hit Squad (2),Fly Swatter,Counterstriker
 C,177,Cumulus Rex,1,Material,860,540,640,520,460,840,Hit Squad,Magic Regenerator,Random Brake Wind,Wave of Relief
-C,178,Hunter Mech,1,Material,780,240,670,680,480,400,1-2 Moves,Metal Beater,Random Oomph,Electrifying
-C,179,Heyedra,1,Zombie,820,400,760,740,540,640,Hit Squad (3),Crafty Zammer,Poison Body,Immediate Fizzle
-C,180,Cureslime,1,Slime,760,540,600,660,770,900,Health Professional,Crafty Magic Drainer,Random Ping,1-2 Moves
-C,181,Metal Dragon,1,Dragon,780,420,720,900,580,640,Gambling Body,Crafty Blade Blunter,Crafty Zammer,Standard Killer
-C,182,Barracuda,1,Nature,820,380,840,620,660,400,Early Bird,Confused Frenzy,Crafty Decelerater,Critical Massacre
+C,178,Hunter Mech,1,Material,780,240,670,680,480,400,Tactical Trooper,Metal Beater,Random Oomph,Static
+C,179,Heyedra,1,Zombie,820,400,760,740,540,640,Hit Squad (3),Crafty Zammer,Poisonous,Starting Fizzle
+C,180,Cureslime,1,Slime,760,540,600,660,770,900,Health Professional,Crafty Magic Drainer,Random Ping,Tactical Trooper
+C,181,Metal Dragon,1,Dragon,780,420,720,900,580,640,Perilous Parrier,Crafty Blade Blunter,Crafty Zammer,Standard Killer
+C,182,Barracuda,1,Nature,820,380,840,620,660,400,Early Bird,Berserker,Crafty Decelerater,Critical Massacre
 C,183,Pipit,1,Nature,900,540,260,690,860,900,Health Professional,Strangely Alluring,Attallergic,Counteractivist
-C,184,Half Hog,2,Beast,1300,290,840,480,330,410,1-3 Mega Moves,Hit Squad (2),Attallergic,Immediate Oomph
+C,184,Half Hog,2,Beast,1300,290,840,480,330,410,Big Hitter (1-3),Hit Squad (2),Attallergic,Starting Oomph
 C,185,Diemon,1,Beast,860,400,720,740,540,480,Wooshmeister,Wave of Relief,Random Ping,Crafty Woosher
-C,186,Golem,1,Material,880,260,820,960,280,560,Increase Tension,Crafty Sagger,Steady Recovery,Rare Tension
-C,187,Erazor Blade,1,Demon,740,380,780,720,900,600,Artful Dodger,Fly Swatter,Metal Beater,Immediate Accelerate
-C,188,Cerberwretch,1,Zombie,640,220,580,420,600,440,1-3 Moves,Hit Squad,Spell Splurger,Poison Body
-C,189,Cyber Slime,1,Slime,800,400,780,760,500,760,Paralysing Body,Item Chance Up,Crafty Paralyser,Paralysis Attack
-C,190,Liquid Metal Slime,1,Slime,40,540,580,1300,1300,800,Metal Body,Escape Artist,Persistent,Crafty Banger
-C,191,Drag-goof,1,Dragon,900,170,720,450,350,240,1-2 Moves,Crafty Poisoner,Immediate Break Bind,Confused Frenzy
-C,192,Yabby,1,Nature,760,420,700,980,660,560,Hit Squad (2),Crafty Sapper,Immediate Buff,Crafty Sagger
-C,193,Lleviathan ,3,Nature,1800,340,700,670,500,800,2-3 Giga Moves,Restless ,Late Riser,Spell Splurger
-C,194,Notso Macho,1,Beast,880,220,840,760,600,400,Crafty Abiliterator,Crafty Blade Blunter,Confused Frenzy,Loose Cannon
-C,195,Missing Lynx,3,Beast,2100,210,750,700,890,580,1-3 Giga Moves,Intimidating,Crafty Woosher,Crafty Blade Blunter
-C,196,Gryphon,1,Demon,800,520,700,700,580,560,Crafty Dazzler,Crafty Fizzler,Immediate Ping,1-2 Moves
-C,197,Grim Keeper,1,Demon,760,420,760,670,840,580,Magic Regenerator,Crafty Frizzer,Enemy Tension Reset,Whack Attack
-B,198,Magic Slime,1,Slime,780,540,480,680,910,900,Hit Squad,Sizzmeister,Crafty Sizzer,Magic Drain Attack
-B,199,Great Argon Lizard,1,Dragon,900,200,820,840,560,320,Desperado,Poison Attack,Random Buff,Crafty Poisoner
-B,200,Mandrake Marshal ,1,Dragon,780,420,740,760,680,640,Hit Squad (2),Increase Tension,Crafty Frizzer,Critical Guard
-B,201,Beetleboy,1,Nature,780,280,800,1000,680,480,Increase Tension,Crafty Abiliterator,Gambling Body,Crafty Zammer
-B,202,Firebird,1,Beast,760,360,780,680,880,640,Artful Dodger,Crafty Fire Breather,Immediate Fizzle,Close Scraper
+C,186,Golem,1,Material,880,260,820,960,280,560,Psycho,Crafty Sagger,Steady Recovery,Random Tension
+C,187,Erazor Blade,1,Demon,740,380,780,720,900,600,Artful Dodger,Fly Swatter,Metal Beater,Starting Accelerate
+C,188,Cerberwretch,1,Zombie,640,220,580,420,600,440,Tactical Genius,Hit Squad,Spell Splurger,Poisonous
+C,189,Cyber Slime,1,Slime,800,400,780,760,500,760,Paralysing,Lootist,Crafty Paralyser,Paralysing Touch
+C,190,Liquid Metal Slime,1,Slime,40,540,580,1300,1300,800,Metal Body,Escape Artist,Stalwart Spirit,Crafty Banger
+C,191,Drag-goof,1,Dragon,900,170,720,450,350,240,Tactical Trooper,Crafty Poisoner,Starting Break Bind,Berserker
+C,192,Yabby,1,Nature,760,420,700,980,660,560,Hit Squad (2),Crafty Sapper,Starting Buff,Crafty Sagger
+C,193,Lleviathan ,3,Nature,1800,340,700,670,500,800,Grand Slammer (2-3),Toss & Turn ,Late Riser,Spell Splurger
+C,194,Notso Macho,1,Beast,880,220,840,760,600,400,Crafty Abiliterator,Crafty Blade Blunter,Berserker,Loose Cannon
+C,195,Missing Lynx,3,Beast,2100,210,750,700,890,580,Grand Slammer (1-3),Imposing,Crafty Woosher,Crafty Blade Blunter
+C,196,Gryphon,1,Demon,800,520,700,700,580,560,Crafty Dazzler,Crafty Fizzler,Starting Ping,Tactical Trooper
+C,197,Grim Keeper,1,Demon,760,420,760,670,840,580,Magic Regenerator,Crafty Frizzer,Heckling Hector,Deadly Touch
+B,198,Magic Slime,1,Slime,780,540,480,680,910,900,Hit Squad,Sizzmeister,Crafty Sizzer,Drain Magic
+B,199,Great Argon Lizard,1,Dragon,900,200,820,840,560,320,Desperado,Poisonous Touch,Random Buff,Crafty Poisoner
+B,200,Mandrake Marshal ,1,Dragon,780,420,740,760,680,640,Hit Squad (2),Psycho,Crafty Frizzer,Critical Guard
+B,201,Beetleboy,1,Nature,780,280,800,1000,680,480,Psycho,Crafty Abiliterator,Perilous Parrier,Crafty Zammer
+B,202,Firebird,1,Beast,760,360,780,680,880,640,Artful Dodger,Crafty Fire Breather,Starting Fizzle,Close Scraper
 B,203,Magmalice,1,Material,800,400,760,740,600,680,Frizzmeister,Crafty Fire Breather,Random Buff,Crafty Frizzer
 B,204,Captain Catastrophe,1,Demon,760,400,800,800,600,720,Hit Squad,Critical Massacre,Early Bird,Desperado
-B,205,Phantom Swordsman,1,Zombie,720,500,720,700,860,640,Artful Dodger,Confusion Attack,Counterslammer,Magic Drain Body
-B,206,Skeleton Soldier,1,Zombie,840,420,740,640,640,480,Paralysis Attack,Crafty Magic Drainer,Random Break Bind,Close Scraper
-B,207,Dark Slime,1,Slime,740,520,620,680,830,900,Zammeister,Enemy Tension Reset,Unlucky,1-2 Moves
-B,208,Tyrantosaurus,1,Dragon,900,180,860,660,740,240,Hit Squad (2),Critical Massacre,Pressure,Whack Attack
-B,209,Compos Mantis,1,Nature,740,480,720,860,640,680,Hit Squad (2),Confusion Attack,Fly Swatter,Standard Killer
-B,210,Cockateer,1,Beast,840,120,800,820,1000,360,Fly Swatter,Wooshmeister,Immediate Brake Wind,Crafty Woosher
-B,211,Stainless Scrapper,1,Material,600,320,500,560,510,580,1-3 Moves,Hit Squad (2),Spell Splurger,Metal Killer
-B,212,Fallen Priest,1,Demon,800,540,400,830,840,900,Zammeister,Crafty Zammer,Random Ping,1-2 Moves
-B,213,Grim Rider,1,Zombie,820,380,740,620,800,520,Counterstriker,Crafty Confuser,Fly Swatter,Persistent
-B,214,Soulspawn,1,Zombie,760,540,440,860,920,840,Hit Squad (3),Confusion Attack,Paralysing Body,Random Nether Fog
-B,215,Rotten Egg,1,Slime,780,440,640,980,600,680,Counterstriker,Crafty Sizzer,Immediate Accelerate,Magic Drain Body
-B,216,Ethereal Serpent,2,Dragon,1300,440,900,700,760,520,1-2 Mega Moves,Artful Dodger,Crafty Sagger,Rare Tension
-B,217,Giant Moth,1,Nature,780,540,600,800,640,720,Hit Squad,Paralysing Body,Immediate Brake Wind,Magic Drain Body
-B,218,Pink Sanguini,1,Beast,800,460,700,720,720,480,Artful Dodger,Strangely Alluring,Crafty Saboteur,Wave of Relief
-B,219,Mimic,1,Material,780,400,700,840,760,560,Critical Massacre,Scout Chance Up,Crafty Whacker,Immediate Fizzle
-B,220,Juggular,1,Demon,830,500,660,540,700,640,Hit Squad (4),Crafty Confuser,Random Oomph,1-2 Moves
-B,221,Archdemon,1,Demon,840,380,720,760,520,720,Bangmeister,Crafty Banger,Enemy Tension Reset,1-2 Moves
-B,222,Cross Bones,1,Zombie,760,500,760,740,580,640,Desperado,Crafty Sagger,Paralysis Attack,Pressure
-B,223,Dark Slime Knight,1,Slime,820,460,680,800,540,600,Increase Tension,Zammeister,Random Brake Wind,Immediate Accelerate
-B,224,Meglaodon,1,Dragon,780,380,800,820,660,480,Artful Dodger,Magic Regenerator,Random Tension,Whack Attack
-B,225,Frou-Frou,1,Dragon,900,160,860,980,400,360,Desperado,Sleep Attack,Crafty Cracker,Crafty Sleeper
-B,226,Goreilla,1,Nature,880,140,700,860,900,480,Critical Massacre,Intimidating,Random Tension,1-2 Moves
-B,227,Maniacal Mole,1,Beast,800,260,840,780,800,440,Gold Up,Item Chance Up,Exp Up,Scout Chance Up
-B,228,Squign,1,Beast,720,500,740,740,700,800,Hit Squad,Gold Up,Exp Up,Scout Chance Up
-B,229,Corrupt Carter,1,Material,700,320,620,700,670,500,1-2 Moves,Electrifying,Sleep Attack,Immediate Break Bind
-B,230,Lethal Armour,1,Demon,820,380,760,860,560,440,Able Ambusher,Crafty Sagger,Enemy Tension Rise,Light Metal Body
-B,231,Boss Troll ,2,Demon,1500,220,900,880,400,160,1-2 Mega Moves,Hit Squad (2),Pressure,Desperado
-B,232,Jamirus,1,Demon,610,420,420,400,460,840,2 Moves,Ally Tension Rise,Spell Splurger,Crafty Frizzer
+B,205,Phantom Swordsman,1,Zombie,720,500,720,700,860,640,Artful Dodger,Confusing Touch,Gamble Counter,Take Magic
+B,206,Skeleton Soldier,1,Zombie,840,420,740,640,640,480,Paralysing Touch,Crafty Magic Drainer,Random Break Bind,Close Scraper
+B,207,Dark Slime,1,Slime,740,520,620,680,830,900,Zammeister,Heckling Hector,Unlucky,Tactical Trooper
+B,208,Tyrantosaurus,1,Dragon,900,180,860,660,740,240,Hit Squad (2),Critical Massacre,Intimidating,Deadly Touch
+B,209,Compos Mantis,1,Nature,740,480,720,860,640,680,Hit Squad (2),Confusing Touch,Fly Swatter,Standard Killer
+B,210,Cockateer,1,Beast,840,120,800,820,1000,360,Fly Swatter,Wooshmeister,Starting Brake Wind,Crafty Woosher
+B,211,Stainless Scrapper,1,Material,600,320,500,560,510,580,Tactical Genius,Hit Squad (2),Spell Splurger,Metal Killer
+B,212,Fallen Priest,1,Demon,800,540,400,830,840,900,Zammeister,Crafty Zammer,Random Ping,Tactical Trooper
+B,213,Grim Rider,1,Zombie,820,380,740,620,800,520,Counterstriker,Crafty Confuser,Fly Swatter,Stalwart Spirit
+B,214,Soulspawn,1,Zombie,760,540,440,860,920,840,Hit Squad (3),Confusing Touch,Paralysing,Random Netherfog
+B,215,Rotten Egg,1,Slime,780,440,640,980,600,680,Counterstriker,Crafty Sizzer,Starting Accelerate,Take Magic
+B,216,Ethereal Serpent,2,Dragon,1300,440,900,700,760,520,Big Hitter (1-2),Artful Dodger,Crafty Sagger,Random Tension
+B,217,Giant Moth,1,Nature,780,540,600,800,640,720,Hit Squad,Paralysing,Starting Brake Wind,Take Magic
+B,218,Pink Sanguini,1,Beast,800,460,700,720,720,480,Artful Dodger,Strangely Alluring,Crafty Magical Saboteur,Wave of Relief
+B,219,Mimic,1,Material,780,400,700,840,760,560,Critical Massacre,Pro Talent Scout,Crafty Whacker,Starting Fizzle
+B,220,Juggular,1,Demon,830,500,660,540,700,640,Hit Squad (4),Crafty Confuser,Random Oomph,Tactical Trooper
+B,221,Archdemon,1,Demon,840,380,720,760,520,720,Bangmeister,Crafty Banger,Heckling Hector,Tactical Trooper
+B,222,Cross Bones,1,Zombie,760,500,760,740,580,640,Desperado,Crafty Sagger,Paralysing Touch,Intimidating
+B,223,Dark Slime Knight,1,Slime,820,460,680,800,540,600,Psycho,Zammeister,Random Brake Wind,Starting Accelerate
+B,224,Megalodon,1,Dragon,780,380,800,820,660,480,Artful Dodger,Magic Regenerator,Random Tension,Deadly Touch
+B,225,Frou-Frou,1,Dragon,900,160,860,980,400,360,Desperado,Sleepy Touch,Crafty Cracker,Crafty Sleeper
+B,226,Goreilla,1,Nature,880,140,700,860,900,480,Critical Massacre,Imposing,Random Tension,Tactical Trooper
+B,227,Maniacal Mole,1,Beast,800,260,840,780,800,440,Gold Getter,Lootist,Fast Learner,Pro Talent Scout
+B,228,Squign,1,Beast,720,500,740,740,700,800,Hit Squad,Gold Getter,Fast Learner,Talent Scout
+B,229,Corrupt Carter,1,Material,700,320,620,700,670,500,Tactical Trooper,Static,Sleepy Touch,Starting Break Bind
+B,230,Lethal Armour,1,Demon,820,380,760,860,560,440,Able Ambusher,Crafty Sagger,Rival Riler,Light Metal Body
+B,231,Boss Troll ,2,Demon,1500,220,900,880,400,160,Big Hitter (1-2),Hit Squad (2),Intimidating,Desperado
+B,232,Jamirus,1,Demon,610,420,420,400,460,840,Double Trouble,Rabble Rouser,Spell Splurger,Crafty Frizzer
 B,233,Fright Knight,1,Zombie,820,330,800,660,720,560,Able Ambusher,Giant Killer,Metal Beater,Fly Swatter
-B,234,Ragin' Contagion ,1,Zombie,860,520,520,580,680,840,Poison Body,Paralysing Body,Confusion Attack,Crafty Confuser
-B,235,Seedy Weedie,1,Slime,720,540,660,720,820,760,Exp Up,Crafty Saboteur,Crafty Gobstopper,Steady Recovery
+B,234,Ragin' Contagion ,1,Zombie,860,520,520,580,680,840,Poisonous,Paralysing,Confusing Touch,Crafty Confuser
+B,235,Seedy Weedie,1,Slime,720,540,660,720,820,760,Fast Learner,Crafty Magical Saboteur,Crafty Gobstopper,Steady Recovery
 B,236,Abyss Diver,1,Dragon,900,120,760,860,800,360,Artful Dodger,Crafty Confuser,Random Buff,Steady Recovery
-B,237,Dragon Rider,1,Dragon,740,320,620,520,660,560,1-2 Moves,Artful Dodger,Enemy Tension Rise,Wooshmeister
-B,238,Stark Raven,1,Nature,770,460,620,820,840,600,Artful Dodger,Enemy Tension Reset,Zammeister,Immediate Brake Wind
+B,237,Dragon Rider,1,Dragon,740,320,620,520,660,560,Tactical Trooper,Artful Dodger,Rival Riler,Wooshmeister
+B,238,Stark Raven,1,Nature,770,460,620,820,840,600,Artful Dodger,Heckling Hector,Zammeister,Starting Brake Wind
 B,239,Tantamount,1,Beast,820,400,720,720,620,680,Early Bird,Zapmeister,Unlucky,Counteractivist
-B,240,Jum,1,Material,900,320,660,900,440,600,Immediate Buff,Immediate Accelerate,Yellow-Belly,1-2 Moves
+B,240,Jum,1,Material,900,320,660,900,440,600,Starting Buff,Starting Accelerate,Foot Dragger,Tactical Trooper
 B,241,Knight Aberrant,1,Demon,860,260,760,880,480,720,Hit Squad (3),Critical Massacre,Crafty Sleeper,Standard Killer
-B,242,Cobra Cardinal ,1,Zombie,740,540,600,700,820,880,Paralysis Attack,Crafty Zammer,Random Ping,Magic Counter
+B,242,Cobra Cardinal ,1,Zombie,740,540,600,700,820,880,Paralysing Touch,Crafty Zammer,Random Ping,Bouncer
 B,243,King Cureslime,1,Slime,900,540,360,780,590,860,Health Professional,Close Scraper,Random Ping,Crafty Dimmer
-B,244,Drakularge,1,Dragon,900,300,800,840,390,340,Pressure,Increase Tension,Restless ,Crafty Gobstopper
-B,245,Flamethrower,1,Nature,820,480,780,540,500,720,Artful Dodger,Frizzmeister,Immediate Brake Wind,Crafty Frizzer
-B,246,Eyevory Tusk-Tusk,2,Beast,1500,380,740,640,480,480,1-2 Mega Moves,Critical Massacre,Crafty Donker,Pressure
-B,247,Bjorn,3,Beast,2300,190,800,600,240,360,2 Giga Moves,Hit Squad (2),Intimidating,Last Word
-B,248,Wishmaster,2,Material,1200,440,720,540,490,650,1-3 Mega Moves,Desperado,Spell Splurger,Bangmeister
-B,249,High Djinks,1,Demon,720,500,760,680,720,800,Artful Dodger,Zapmeister,Crafty Woosher,Gambling Body
-B,250,Wight Knight,1,Zombie,840,420,680,700,620,640,Hit Squad,Zapmeister,Crafty Sizzer,1-2 Moves
-B,251,Leokid,1,？？？系,700,300,680,580,660,600,2 Moves,Yellow-Belly,Persistent,Crafty Devil
-A,252,Tortaceratops,1,Dragon,780,400,720,980,580,560,Hit Squad (2),Immediate Buff,Last Word,Increase Tension
-A,253,Blizzybody,1,Nature,800,520,680,620,660,640,Artful Dodger,Crackmeister,Immediate Fizzle,Crafty Cracker
-A,254,Gigantes,2,Beast,1300,200,900,960,500,280,1-2 Mega Moves,Last Word,Crafty Decelerater,Hopeful Hitter
-A,255,Killing Machine,1,Material,620,360,500,500,420,560,2 Moves,Electrifying,Spell Splurger,Crafty Inactivist
-A,256,Demon-At-Arms,1,Demon,660,320,440,560,380,600,2 Moves,Hit Squad (3),Spell Splurger,Magic Drain Body
-A,257,Robbin' Hood,1,Demon,720,520,780,720,740,520,Increase Tension,Intimidating,Enemy Tension Reset,Rare Tension
-A,258,Wailin' Weed,1,Zombie,820,520,520,720,700,840,Ally Tension Rise,Enemy Tension Down,Enemy Tension Reset,Comeback Kid
-A,259,King Bubble Slime,1,Slime,900,500,620,660,340,720,Poison Body,Poison Attack,Restless ,Standard Killer
+B,244,Drakularge,1,Dragon,900,300,800,840,390,340,Intimidating,Psycho,Toss & Turn ,Crafty Gobstopper
+B,245,Flamethrower,1,Nature,820,480,780,540,500,720,Artful Dodger,Frizzmeister,Starting Brake Wind,Crafty Frizzer
+B,246,Eyevory Tusk-Tusk,2,Beast,1500,380,740,640,480,480,Big Hitter (1-2),Critical Massacre,Crafty Donker,Intimidating
+B,247,Bjorn,3,Beast,2300,190,800,600,240,360,Grand Slammer (2),Hit Squad (2),Imposing,Last Word
+B,248,Wishmaster,2,Material,1200,440,720,540,490,650,Big Hitter (1-3),Desperado,Spell Splurger,Bangmeister
+B,249,High Djinks,1,Demon,720,500,760,680,720,800,Artful Dodger,Zapmeister,Crafty Woosher,Perilous Parrier
+B,250,Wight Knight,1,Zombie,840,420,680,700,620,640,Hit Squad,Zapmeister,Crafty Sizzer,Tactical Trooper
+B,251,Leokid,1,？？？系,700,300,680,580,660,600,Double Trouble,Foot Dragger,Stalwart Spirit,Crafty Devil
+A,252,Tortoceratops,1,Dragon,780,400,720,980,580,560,Hit Squad (2),Starting Buff,Last Word,Psycho
+A,253,Blizzybody,1,Nature,800,520,680,620,660,640,Artful Dodger,Crackmeister,Starting Fizzle,Crafty Cracker
+A,254,Gigantes,2,Beast,1300,200,900,960,500,280,Big Hitter (1-2),Last Word,Crafty Decelerater,Hopeful Hitter
+A,255,Killing Machine,1,Material,620,360,500,500,420,560,Double Trouble,Static,Spell Splurger,Crafty Inactivist
+A,256,Demon-At-Arms,1,Demon,660,320,440,560,380,600,Double Trouble,Hit Squad (3),Spell Splurger,Take Magic
+A,257,Robbin' Hood,1,Demon,720,520,780,720,740,520,Psycho,Imposing,Heckling Hector,Random Tension
+A,258,Wailin' Weed,1,Zombie,820,520,520,720,700,840,Rabble Rouser,Grumble,Heckling Hector,Comeback Kid
+A,259,King Bubble Slime,1,Slime,900,500,620,660,340,720,Poisonous,Poisonous Touch,Toss & Turn ,Standard Killer
 A,260,Rashaverak,1,Dragon,820,400,780,720,500,680,Hit Squad,Crafty Paralyser,Random Accelerate,Close Scraper
-A,261,Wooper Trooper,1,Nature,720,420,820,680,800,720,Immediate Oomph,Desperado,Sizzmeister,Critical Guard
-A,262,Buffalogre,1,Beast,870,200,800,900,640,360,Increase Tension,Crafty Gobstopper,Immediate Tension,Immediate Oomph
-A,263,Scytheborg,1,Material,820,420,780,700,540,560,Hit Squad,Paralysing Body,Confused Frenzy,Metal Killer
-A,264,Hyperanemon,1,Demon,800,520,740,540,520,840,Zapmeister,Crafty Zapper,Poison Attack,Steady Recovery
-A,265,Gigalumph,1,Zombie,900,260,820,900,360,360,Artful Dodger,Restless ,Crafty Zapper,1-2 Moves
-A,266,Slime Gang,3,Slime,1800,400,500,550,1000,600,2-3 Giga Moves,Immediate Accelerate,Strangely Alluring,Spell Splurger
+A,261,Wooper Trooper,1,Nature,720,420,820,680,800,720,Starting Oomph,Desperado,Sizzmeister,Critical Guard
+A,262,Buffalogre,1,Beast,870,200,800,900,640,360,Psycho,Crafty Gobstopper,Starting Tension,Starting Oomph
+A,263,Scytheborg,1,Material,820,420,780,700,540,560,Hit Squad,Paralysing,Berserker,Metal Killer
+A,264,Hyperanemon,1,Demon,800,520,740,540,520,840,Zapmeister,Crafty Zapper,Poisonous Touch,Steady Recovery
+A,265,Gigalumph,1,Zombie,900,260,820,900,360,360,Artful Dodger,Toss & Turn ,Crafty Zapper,Tactical Trooper
+A,266,Slime Gang,3,Slime,1800,400,500,550,1000,600,Grand Slammer (2-3),Starting Accelerate,Strangely Alluring,Spell Splurger
 A,267,Sintaur,1,Dragon,820,380,800,640,600,640,Counterstriker,Hopeful Hitter,Attallergic,Steady Recovery
-A,268,Heligator,1,Nature,900,360,760,920,260,360,Artful Dodger,Crafty Zammer,Restless ,Standard Killer
-A,269,Marquis De Leon,2,Beast,1300,460,920,760,540,680,1-2 Mega Moves,Hit Squad (3),Crafty Cracker,Crafty Sizzer
-A,270,Balhib,1,Material,860,280,780,940,420,560,Gold Up,Crafty Devil,Metal Beater,Magic Barrier
-A,271,Conkettes,1,Demon,740,400,700,800,900,680,Increase Tension,Hit Squad (4),Comeback Kid,Strangely Alluring
-A,272,Exorsus,2,Zombie,1300,700,500,700,800,1000,1-2 Mega Moves,Sizzmeister,Crafty Sizzer,Immediate Fizzle
-A,273,Metal Kaiser Slime ,2,Slime,60,700,660,1600,1600,1180,1-2 Mega Moves,Metal Body,Early Bird,Immediate Break Bind
-A,274,Dual Duellers,2,Dragon,1100,380,660,640,1000,710,2 Mega Moves,Hit Squad,Poison Attack,Standard Killer
+A,268,Heligator,1,Nature,900,360,760,920,260,360,Artful Dodger,Crafty Zammer,Toss & Turn ,Standard Killer
+A,269,Marquis De Léon,2,Beast,1300,460,920,760,540,680,Big Hitter (1-2),Hit Squad (3),Crafty Cracker,Crafty Sizzer
+A,270,Balhib,1,Material,860,280,780,940,420,560,Gold Getter,Crafty Devil,Metal Beater,Random Magic Barrier
+A,271,Conkettes,1,Demon,740,400,700,800,900,680,Psycho,Hit Squad (4),Comeback Kid,Strangely Alluring
+A,272,Exorsus,2,Zombie,1300,700,500,700,800,1000,Big Hitter (1-2),Sizzmeister,Crafty Sizzer,Starting Fizzle
+A,273,Metal Kaiser Slime ,2,Slime,60,700,660,1600,1600,1180,Big Hitter (1-2),Metal Body,Early Bird,Starting Break Bind
+A,274,Dual Duellers,2,Dragon,1100,380,660,640,1000,710,Big Hitter (2),Hit Squad,Poisonous Touch,Standard Killer
 A,275,Riptide,1,Nature,780,300,740,780,880,680,Early Bird,Hit Squad,Zammeister,Crafty Cracker
 A,276,Mohawker,1,Beast,900,240,800,700,500,640,Critical Massacre,Health Professional,Random Oomph,Desperado
-A,277,Boe,1,Material,800,500,600,800,700,600,Immediate Accelerate,Steady Recovery,Crafty Donker,1-2 Moves
-A,278,Gracos,1,Demon,840,440,580,820,600,760,Crackmeister,Crafty Ice Breather,Protective Fog,1-2 Moves
+A,277,Boe,1,Material,800,500,600,800,700,600,Starting Accelerate,Steady Recovery,Crafty Donker,Tactical Trooper
+A,278,Gracos,1,Demon,840,440,580,820,600,760,Crackmeister,Crafty Ice Breather,Random Mist Me,Tactical Trooper
 A,279,Tortured Soul,1,Zombie,860,520,400,720,750,900,Crafty Paralyser,Sizzmeister,Random Break Bind,Crafty Sizzer
 A,280,Great Dragon,1,Dragon,820,240,900,800,600,480,Frizzmeister,Crafty Fire Breather,Random Brake Wind,Close Scraper
-A,281,Thornella,2,Nature,1400,200,900,820,620,720,1-2 Mega Moves,Hit Squad (2),Health Professional,Imaginative
-A,282,Slon,1,Beast,900,360,860,460,500,400,Hit Squad (2),Critical Massacre,Confused Frenzy,Critical Guard
-A,283,Living Statue,1,Material,860,320,740,940,400,600,Critical Massacre,Crafty Sapper,Random Buff,1-2 Moves
-A,284,Mortella,2,Demon,1300,400,720,660,1000,1000,1-2 Mega Moves,Hit Squad (2),Paralysis Attack,Enemy Tension Reset
-A,285,Grotwyrm,1,Zombie,840,420,720,620,620,640,Poison Body,Fly Swatter,Confusion Attack,Gambling Body
+A,281,Thornella,2,Nature,1400,200,900,820,620,720,Big Hitter (1-2),Hit Squad (2),Health Professional,Critical Mastermind
+A,282,Slon The Rook,1,Beast,900,360,860,460,500,400,Hit Squad (2),Critical Massacre,Berserker,Critical Guard
+A,283,Living Statue,1,Material,860,320,740,940,400,600,Critical Massacre,Crafty Sapper,Random Buff,Tactical Trooper
+A,284,Mortella,2,Demon,1300,400,720,660,1000,1000,Big Hitter (1-2),Hit Squad (2),Paralysing Touch,Heckling Hector
+A,285,Grotwyrm,1,Zombie,840,420,720,620,620,640,Poisonous,Fly Swatter,Confusing Touch,Perilous Parrier
 A,286,Ultra Slime,1,Slime,720,400,780,620,1000,680,Early Bird,Giant Killer,Close Scraper,Metal Killer
-A,287,Garuda,1,Nature,720,460,680,800,920,640,Artful Dodger,Persistent,Random Brake Wind,Desperado
-A,288,Moosifer,1,Beast,820,360,800,700,500,800,Increase Tension,Sizzmeister,Foot Dragger,Magic Counter
-A,289,Mum,1,Material,700,500,800,800,550,900,Immediate Accelerate,Health Professional,Yellow-Belly,1-2 Moves
-A,290,Baron Von Bellycose,2,Demon,1200,600,860,880,640,720,1-2 Mega Moves,Crafty Sizzer,Imaginative,Electrifying
-A,291,Gemon,2,Demon,1200,460,920,800,1000,480,1-2 Mega Moves,Fly Swatter,Scare Stare,Magic Counter
-A,292,Roseguardin,1,Zombie,720,360,580,820,440,560,1-2 Moves,Counterstriker,Random Buff,Desperado
+A,287,Garuda,1,Nature,720,460,680,800,920,640,Artful Dodger,Stalwart Spirit,Random Brake Wind,Desperado
+A,288,Moosifer,1,Beast,820,360,800,700,500,800,Psycho,Sizzmeister,Timid,Bouncer
+A,289,Mum,1,Material,700,500,800,800,550,900,Starting Accelerate,Health Professional,Foot Dragger,Tactical Trooper
+A,290,Baron Von Bellycose,2,Demon,1200,600,860,880,640,720,Big Hitter (1-2),Crafty Sizzer,Critical Mastermind,Static
+A,291,Gemon,2,Demon,1200,460,920,800,1000,480,Big Hitter (1-2),Fly Swatter,Scare Stare,Bouncer
+A,292,Roseguardin,1,Zombie,720,360,580,820,440,560,Tactical Trooper,Counterstriker,Random Buff,Desperado
 A,293,Night Knight,1,Zombie,820,380,780,800,420,760,Metal Beater,Fly Swatter,Giant Killer,Critical Guard
-A,294,Nemeslime,1,Slime,660,400,600,540,800,640,1-2 Moves,Intimidating,Fly Swatter,Metal Killer
-A,295,Mechanowyrm,1,Dragon,880,300,720,1000,380,520,Critical Massacre,Paralysing Body,Crafty Paralyser,Magic Counter
-A,296,Gripevine,2,Nature,1300,400,550,720,280,750,1-3 Mega Moves,Hit Squad (2),Poison Body,Magic Drain Attack
-A,297,Alphyn,2,Beast,1100,600,600,600,760,630,2 Mega Moves,Bangmeister,Yellow-Belly,Magic Counter
-A,298,Boh,1,Material,800,500,700,900,500,400,Health Professional,Magic Regenerator,Despellado,1-2 Moves
-A,299,Dhuran,1,Demon,800,400,800,560,740,600,Hit Squad,Intimidating,Crafty Zammer,1-2 Moves
-A,300,Belial,1,Demon,720,360,580,680,480,760,1-2 Moves,Bangmeister,Health Professional,Increase Tension
-A,301,Monkey Zombie,1,Zombie,760,500,720,640,680,800,Enemy Tension Rise,Immediate Break Bind,Random Break Bind,Random Accelerate
-A,302,Bone Baron,1,Zombie,820,440,500,760,920,720,Counterstriker,Enemy Tension Reset,Confusion Attack,Random Oomph
-A,303,Kon ,1,Nature,800,400,720,760,560,880,Hit Squad (3),Metal Killer,Crafty Woosher,Counterslammer
-A,304,Drosal Fiend,2,Beast,1300,520,720,620,900,800,1-2 Mega Moves,Wooshmeister,Crafty Whacker,Crafty Inactivist
-A,305,Terracotta Warrior,2,Material,1100,320,740,960,680,630,1-3 Mega Moves,Wooshmeister,Disenchanted,Critical Guard
-A,306,Pazuzu,1,Demon,800,400,660,800,680,800,Wooshmeister,Crafty Woosher,Random Ping,1-2 Moves
-A,307,Dierantula,2,Zombie,1200,460,1040,760,600,880,1-2 Mega Moves,Scare Stare,Crafty Woosher,Crafty Zammer
-A,308,Metal King Slime,1,Slime,60,540,420,1400,1400,880,Metal Body,Escape Artist,Crafty Dance Banner,Immediate Ping
-A,309,Korol,1,Demon,780,500,720,560,630,900,Desperado,Crafty Banger,Enemy Tension Down,Imaginative
-A,310,Goreham-Hogg,1,Beast,900,160,900,800,460,440,Increase Tension,Critical Massacre,Random Tension,Counterstriker
-A,311,Hootingham-Gore,1,Demon,780,540,480,740,850,900,Crafty Confuser,Comeback Kid,Enemy Tension Rise,Magic Counter
-A,312,Taurus,2,Beast,1200,320,860,640,880,640,1-2 Mega Moves,Despellado,Confused Frenzy,Hopeful Hitter
-A,313,Capricorn,2,Zombie,1200,600,840,640,780,1000,1-2 Mega Moves,Artful Dodger,Crafty Paralyser,Immediate Tension
-A,314,Stormsgate Citadel,3,Material,2100,410,750,860,320,600,2 Giga Moves,Gambling Body,Immediate Buff,Last Word
-A,315,Empyrea,3,Nature,1900,400,740,820,1000,1000,1-3 Giga Moves,Hit Squad (2),Crafty Zapper,Zapmeister
-A,316,Stella,1,？？？系,740,480,640,550,1000,900,Hit Squad,Enemy Tension Reset,Comeback Kid,Lucky
-A,317,Zoma's Devil,1,？？？系,720,420,480,600,570,900,1-2 Moves,Hit Squad,Spell Splurger,Disruptive Wave
-S,318,Schleiman Tank,3,Slime,1700,240,880,1000,240,640,2 Giga Moves,Light Metal Body,Giant Killer,Last Word
+A,294,Nemeslime,1,Slime,660,400,600,540,800,640,Tactical Trooper,Imposing,Fly Swatter,Metal Killer
+A,295,Mechanowyrm,1,Dragon,880,300,720,1000,380,520,Critical Massacre,Paralysing,Crafty Paralyser,Bouncer
+A,296,Gripevine,2,Nature,1300,400,550,720,280,750,Big Hitter (1-3),Hit Squad (2),Poisonous,Drain Magic
+A,297,Alphyn,2,Beast,1100,600,600,600,760,630,Big Hitter (2),Bangmeister,Foot Dragger,Bouncer
+A,298,Boh,1,Material,800,500,700,900,500,400,Health Professional,Magic Regenerator,Magical Moment,Tactical Trooper
+A,299,Dhuran,1,Demon,800,400,800,560,740,600,Hit Squad,Imposing,Crafty Zammer,Tactical Trooper
+A,300,Belial,1,Demon,720,360,580,680,480,760,Tactical Trooper,Bangmeister,Health Professional,Psycho
+A,301,Monkey Zombie,1,Zombie,760,500,720,640,680,800,Rival Riler,Starting Break Bind,Random Break Bind,Random Accelerate
+A,302,Bone Baron,1,Zombie,820,440,500,760,920,720,Counterstriker,Heckling Hector,Confusing Touch,Random Oomph
+A,303,Kon The Knight,1,Nature,800,400,720,760,560,880,Hit Squad (3),Metal Killer,Crafty Woosher,Gamble Counter
+A,304,Dorsal Fiend,2,Beast,1300,520,720,620,900,800,Big Hitter (1-2),Wooshmeister,Crafty Whacker,Crafty Inactivist
+A,305,Terracotta Warrior,2,Material,1100,320,740,960,680,630,Big Hitter (1-3),Wooshmeister,Disenchanted,Critical Guard
+A,306,Pazuzu,1,Demon,800,400,660,800,680,800,Wooshmeister,Crafty Woosher,Random Ping,Tactical Trooper
+A,307,Dierantula,2,Zombie,1200,460,1040,760,600,880,Big Hitter (1-2),Scare Stare,Crafty Woosher,Crafty Zammer
+A,308,Metal King Slime,1,Slime,60,540,420,1400,1400,880,Metal Body,Escape Artist,Crafty Dance Banner,Starting Ping
+A,309,King Korol,1,Demon,780,500,720,560,630,900,Desperado,Crafty Banger,Grumble,Critical Mastermind
+A,310,Goreham-Hogg,1,Beast,900,160,900,800,460,440,Psycho,Critical Massacre,Random Tension,Counterstriker
+A,311,Hootingham-Gore,1,Demon,780,540,480,740,850,900,Crafty Confuser,Comeback Kid,Rival Riler,Bouncer
+A,312,Taurus,2,Beast,1200,320,860,640,880,640,Big Hitter (1-2),Magical Moment,Berserker,Hopeful Hitter
+A,313,Kapurigon,2,Zombie,1200,600,840,640,780,1000,Big Hitter (1-2),Artful Dodger,Crafty Paralyser,Starting Tension
+A,314,Stormsgate Citadel,3,Material,2100,410,750,860,320,600,Grand Slammer (2),Perilous Parrier,Starting Buff,Last Word
+A,315,Empyrea,3,Nature,1900,400,740,820,1000,1000,Grand Slammer (1-3),Hit Squad (2),Crafty Zapper,Zapmeister
+A,316,Stella,1,？？？系,740,480,640,550,1000,900,Hit Squad,Heckling Hector,Comeback Kid,Lucky
+A,317,Zoma's Devil,1,？？？系,720,420,480,600,570,900,Tactical Trooper,Hit Squad,Spell Splurger,Disruptive Wave
+S,318,Schleiman Tank,3,Slime,1700,240,880,1000,240,640,Grand Slammer (2),Light Metal Body,Giant Killer,Last Word
 S,319,Black Dragon ,1,Dragon,1000,360,800,720,660,600,Zammeister,Scare Stare,Crafty Sizzer,Random Oomph
-S,320,Beetlebully,1,Nature,900,360,920,1000,620,440,Increase Tension,Immediate Buff,Immediate Tension,Crafty Decelerater
-S,321,Atlas,2,Beast,1400,300,500,900,500,300,1-3 Mega Moves,Hopeful Hitter,Increase Tension,Rare Tension
-S,322,Genie Sanguini,1,Beast,1000,560,520,900,440,1000,Artful Dodger,Counterstriker,Confusion Attack,Enemy Tension Reset
-S,323,Trap Box ,1,Material,900,560,740,800,640,720,Critical Massacre,Gambling Body,Magic Drain Body,Protective Fog
-S,324,Dullahan,1,Zombie,800,520,820,920,720,960,Increase Tension,Immediate Oomph,Paralysis Attack,Random Tension
-S,325,Shogum,1,Slime,660,660,680,660,620,800,1-2 Moves,Counterstriker,Fly Swatter,Last Word
-S,326,Drakulard,1,Dragon,1000,200,900,1000,540,520,Critical Massacre,Pressure,Protective Fog,Scare Stare
-S,327,King Squid,2,Nature,1350,400,1000,600,400,300,1-3 Mega Moves,Hit Squad,Crafty Decelerater,Imaginative
-S,328,Don Mole,1,Beast,900,560,840,940,420,480,Counterstriker,Whack Attack,Enemy Tension Down,Random Fizzle
-S,329,Overkilling Machine,1,Material,630,500,510,620,640,400,2 Moves,Hit Squad (3),Crafty Inactivist,Spell Splurger
-S,330,Aamon,2,Demon,1300,800,580,860,1100,1360,1-2 Mega Moves,Wave of Relief,Spell Splurger,Magic Counter
-S,331,Ladja,1,Zombie,800,600,580,540,400,1000,1-2 Moves,Crafty Frizzer,Magic Counter,Immediate Ping
-S,332,Tri Winder,2,Dragon,1480,400,740,400,400,700,1-3 Mega Moves,Hit Squad (3),Crafty Cracker,Crafty Inactivist
+S,320,Beetlebully,1,Nature,900,360,920,1000,620,440,Psycho,Starting Buff,Starting Tension,Crafty Decelerater
+S,321,Atlas,2,Beast,1400,300,500,900,500,300,Big Hitter (1-3),Hopeful Hitter,Psycho,Random Tension
+S,322,Genie Sanguini,1,Beast,1000,560,520,900,440,1000,Artful Dodger,Counterstriker,Confusing Touch,Heckling Hector
+S,323,Trap Box ,1,Material,900,560,740,800,640,720,Critical Massacre,Perilous Parrier,Take Magic,Random Mist Me
+S,324,Dullahan,1,Zombie,800,520,820,920,720,960,Psycho,Starting Oomph,Paralysing Touch,Random Tension
+S,325,Shogum,1,Slime,660,660,680,660,620,800,Tactical Trooper,Counterstriker,Fly Swatter,Last Word
+S,326,Drakulard,1,Dragon,1000,200,900,1000,540,520,Critical Massacre,Intimidating,Random Mist Me,Scare Stare
+S,327,King Squid,2,Nature,1350,400,1000,600,400,300,Big Hitter (1-3),Hit Squad,Crafty Decelerater,Critical Mastermind
+S,328,Don Mole,1,Beast,900,560,840,940,420,480,Counterstriker,Deadly Touch,Grumble,Random Kafizzle
+S,329,Overkilling Machine,1,Material,630,500,510,620,640,400,Double Trouble,Hit Squad (3),Crafty Inactivist,Spell Splurger
+S,330,Aamon,2,Demon,1300,800,580,860,1100,1360,Big Hitter (1-2),Wave of Relief,Spell Splurger,Bouncer
+S,331,Ladja,1,Zombie,800,600,580,540,400,1000,Tactical Trooper,Crafty Frizzer,Bouncer,Starting Ping
+S,332,Tri Winder,2,Dragon,1480,400,740,400,400,700,Big Hitter (1-3),Hit Squad (3),Crafty Cracker,Crafty Inactivist
 S,333,Elder Pipit,1,Nature,600,1000,500,800,1200,1200,Random Accelerate,Crafty Banger,Donkmeister,Random Ping
-S,334,Night Clubber,1,Beast,1000,260,1000,1000,320,320,Last Word,Giant Killer,Yellow-Belly,Persistent
-S,335,Escudogre,1,Material,800,480,880,1200,620,520,Immediate Buff,Crafty Ice Breather,Light Metal Body,Critical Guard
-S,336,Blackmar,1,Demon,600,540,630,610,250,800,2 Moves,Sizzmeister,Crafty Fire Breather,Yellow-Belly
-S,337,Wight King,1,Zombie,800,1000,200,940,960,1000,Poison Body,Magic Regenerator,Magic Drain Attack,Random Ping
-S,338,Slider Girl,2,Slime,1000,500,750,500,2000,700,1-3 Mega Moves,Immediate Oomph,Immediate Tension,Ally Tension Rise
-S,339,Alabast Dragon,2,Dragon,1300,600,1060,1000,640,880,1-2 Mega Moves,Increase Tension,Crafty Fire Breather,Wave of Relief
+S,334,Night Clubber,1,Beast,1000,260,1000,1000,320,320,Last Word,Giant Killer,Foot Dragger,Stalwart Spirit
+S,335,Escudogre,1,Material,800,480,880,1200,620,520,Starting Buff,Crafty Ice Breather,Light Metal Body,Critical Guard
+S,336,Blackmar,1,Demon,600,540,630,610,250,800,Double Trouble,Sizzmeister,Crafty Fire Breather,Foot Dragger
+S,337,Wight King,1,Zombie,800,1000,200,940,960,1000,Poisonous,Magic Regenerator,Drain Magic,Random Ping
+S,338,Slider Girl,2,Slime,1000,500,750,500,2000,700,Big Hitter (1-3),Starting Oomph,Starting Tension,Rabble Rouser
+S,339,Alabast Dragon,2,Dragon,1300,600,1060,1000,640,880,Big Hitter (1-2),Psycho,Crafty Fire Breather,Wave of Relief
 S,340,Prism Peacock,1,Nature,860,620,840,640,740,520,Crafty Fire Breather,Crafty Ice Breather,Wave of Relief,Early Bird
-S,341,Mossferatu,1,Beast,820,620,880,680,640,800,Enemy Tension Down,Poison Attack,Crafty Poisoner,Magic Regenerator
-S,342,The Time Being,1,Material,600,660,410,420,540,1000,1-3 Moves,Immediate Accelerate,Immediate Ping,Spell Splurger
-S,343,Titanis,2,Demon,1300,800,540,440,430,1200,2 Mega Moves,Scare Stare,Intimidating,Pressure
-S,344,Darkonium Slime,2,Slime,60,720,620,1500,1500,1285,2 Mega Moves,Metal Body,Hit Squad (3),Last Word
-S,345,Bilhaw,2,Dragon,1200,600,600,1000,1200,1200,1-2 Mega Moves,Early Bird,Hopeful Hitter,Yellow-Belly
-S,346,Goresby Purrvis,1,Nature,530,300,800,610,800,540,2 Moves,Intimidating,Hopeful Hitter,Yellow-Belly
-S,347,Baalzack,2,Beast,1300,500,1000,700,140,620,1-3 Mega Moves,Hit Squad (2),Standard Killer,Yellow-Belly
-S,348,Dracolord,1,Dragon,860,600,720,700,760,920,Scare Stare,Crafty Fizzler,Immediate Brake Wind,Immediate Break Bind
-S,349,King Sanguini,2,Beast,1100,800,500,700,1000,1300,2 Mega Moves,Hit Squad (2),Immediate Malhaze,Random Malhaze
-S,350,Mumboh-Jumboe,1,Material,820,540,1000,1000,300,680,Bangmeister,Paralysing Body,Crafty Sagger,Metal Beater
+S,341,Mossferatu,1,Beast,820,620,880,680,640,800,Grumble,Poisonous Touch,Crafty Poisoner,Magic Regenerator
+S,342,The Time Being,1,Material,600,660,410,420,540,1000,Tactical Genius,Starting Accelerate,Starting Ping,Spell Splurger
+S,343,Titanis,2,Demon,1300,800,540,440,430,1200,Big Hitter (2),Scare Stare,Imposing,Intimidating
+S,344,Darkonium Slime,2,Slime,60,720,620,1500,1500,1285,Big Hitter (2),Metal Body,Hit Squad (3),Last Word
+S,345,Bilhaw,2,Dragon,1200,600,600,1000,1200,1200,Big Hitter (1-2),Early Bird,Hopeful Hitter,Foot Dragger
+S,346,Goresby-Purrvis,1,Nature,530,300,800,610,800,540,Double Trouble,Imposing,Hopeful Hitter,Foot Dragger
+S,347,Baalzack,2,Beast,1300,500,1000,700,140,620,Big Hitter (1-3),Hit Squad (2),Standard Killer,Foot Dragger
+S,348,Dracolord,1,Dragon,860,600,720,700,760,920,Scare Stare,Crafty Fizzler,Starting Brake Wind,Starting Break Bind
+S,349,King Sanguini,2,Beast,1100,800,500,700,1000,1300,Big Hitter (2),Hit Squad (2),Starting Malhaze,Random Malhaze
+S,350,Mumboh-Jumboe,1,Material,820,540,1000,1000,300,680,Bangmeister,Paralysing,Crafty Sagger,Metal Beater
 S,351,Murdaw,1,Demon,920,520,640,720,800,960,Crackmeister,Crafty Ice Breather,Crafty Sleeper,Random Break Bind
-S,352,Baramos,1,Demon,780,600,520,560,580,1000,1-2 Moves,Hit Squad,Frizzmeister,Crafty Fire Breather
+S,352,Baramos,1,Demon,780,600,520,560,580,1000,Tactical Trooper,Hit Squad,Frizzmeister,Crafty Fire Breather
 S,353,Hargon,1,Demon,940,580,620,760,600,960,Steady Recovery,Hit Squad,Crafty Fizzler,Random Ping
-S,354,Malroth,2,Demon,1260,680,680,670,420,1000,2 Mega Moves,Hit Squad,Health Professional,Disruptive Wave
-S,355,Darck,1,？？？系,1000,460,700,700,580,800,Enemy Tension Reset,Counterslammer,Enemy Tension Down,Disruptive Wave
-S,356,Tyrannosaurus Wrecks,1,Demon,700,220,800,520,450,380,2 Moves,Imaginative,Electrifying,Spell Splurger
-S,357,Captain Crow,1,Zombie,920,500,760,840,760,400,Increase Tension,Ally Tension Rise,Disruptive Wave,Random Brake Wind
-S,358,Grandpa Slime,2,Slime,1300,800,740,1000,720,1200,1-2 Mega Moves,Disruptive Wave,Rare Tension,Zapmeister
-S,359,Canzar,3,Slime,2550,200,800,800,200,400,2 Giga Moves,Hit Squad (2),Close Scraper,Protective Fog
-S,360,Khalamari,3,Nature,2300,400,900,760,440,800,2 Giga Moves,Hit Squad (2),Increase Tension,Crafty Dazzler
-S,361,Dholmagus,1,Beast,800,560,800,860,720,1000,Hit Squad,Increase Tension,Counterstriker,Zammeister
-S,362,Überkilling Machine,1,Material,800,200,900,900,600,200,1-2 Moves,Hit Squad (3),Magic Counter,Random Oomph
-S,363,Slime Blaster,3,Slime,2000,600,500,1000,200,1200,1-3 Giga Moves,Magic Counter,Counteractivist,Late Riser
-S,364,King Godwyn,3,Zombie,1900,700,550,500,800,1000,2-3 Giga Moves,Magic Drain Attack,Disruptive Wave,Disenchanted
-S,365,Ruin,3,Material,2150,200,800,1000,200,400,2 Giga Moves,Hopeful Hitter,Disenchanted,Last Word
-SS,366,Gem Slime,2,Slime,80,800,640,1800,1800,1400,1-2 Mega Moves,Metal Body,Hit Squad (3),Enemy Tension Rise
-SS,367,Dragonlord,2,Dragon,1100,520,1000,900,600,820,1-3 Mega Moves,Increase Tension,Close Scraper,Unlucky
-SS,368,Leopold,1,Nature,840,540,740,820,1000,520,Artful Dodger,Early Bird,Giant Killer,Immediate Malhaze
-SS,369,Psaro,2,Material,1400,500,1000,900,800,600,1-2 Mega Moves,Desperado,Crafty Whacker,Magic Counter
-SS,370,Robbin's Old Lady,2,Beast,1250,400,960,600,700,660,2 Mega Moves,Hit Squad,Immediate Tension,Strangely Alluring
-SS,371,Prince O' Thieves,1,Demon,760,360,820,620,760,440,1-2 Moves,Pressure,Enemy Tension Down,Confused Frenzy
-SS,372,Nimzo,2,？？？系,1300,500,720,700,600,820,2 Mega Moves,Disruptive Wave,Crafty Sapper,Rare Tension
-SS,373,Xiphos,3,Dragon,1900,400,800,540,1000,720,2-3 Giga Moves,Hit Squad (2),Critical Guard,Disenchanted
-SS,374,Diamond Slime,1,Slime,100,400,750,1400,1400,1000,Hard Metal Body,Random Tension,Magic Drain Attack,Disenchanted
-SS,375,Orochi,3,Dragon,2600,220,720,520,340,520,1-3 Giga Moves,Hit Squad (4),Crafty Fire Breather,Rare Tension
-SS,376,Trode,1,Nature,880,600,800,700,680,600,Increase Tension,Counterstriker,Escape Artist,Enemy Tension Reset
-SS,377,Pruslas,3,Beast,2200,200,800,800,200,400,1-3 Giga Moves,Hopeful Hitter,Last Word,Yellow-Belly
-SS,378,Trauminator,2,Material,1200,400,830,1000,730,720,2 Mega Moves,Bangmeister,Crafty Inactivist,Magic Barrier
-SS,379,Scruffy,1,Demon,800,600,800,500,1000,1000,Enemy Tension Down,Scout Chance Up,Counteractivist,Protective Fog
-SS,380,Dr Snapped,2,Zombie,1100,600,920,700,610,1200,2 Mega Moves,Hit Squad (2),Poison Body,Confusion Attack
-SS,381,Zoma,1,？？？系,620,600,660,860,640,1000,1-2 Moves,Magic Counter,Crafty Cracker,Immediate Ping
-SS,382,Liquid Metal King Slime,3,Slime,200,1000,565,1600,1600,1490,2-3 Giga Moves,Metal Body,Standard Killer,Gambling Body
-SS,383,Barbarus,2,Dragon,1300,280,940,710,600,800,2 Mega Moves,Pressure,Crafty Donker,Random Nether Fog
-SS,384,Numen,1,Nature,840,590,760,760,700,960,Comeback Kid,Wave of Relief,Lucky,Immediate Ping
-SS,385,Fluffy,1,Beast,820,540,840,700,900,720,Ally Tension Rise,Scout Chance Up,Magic Counter,Protective Fog
-SS,386,Schwarzman Tank,3,Material,1800,300,850,1000,100,400,1-3 Giga Moves,Light Metal Body,Desperado,Spell Splurger
-SS,387,Mortamor,2,？？？系,1000,800,870,710,800,1000,1-3 Mega Moves,Hit Squad,Immediate Nether Fog,Disruptive Wave
-SS,388,Baboorood,3,？？？系,2100,400,550,640,560,800,2-3 Giga Moves,Sleep Attack,Counteractivist,Spell Splurger
-SS,389,Greygnarl,2,Dragon,1300,320,920,670,650,700,2 Mega Moves,Zapmeister,Comeback Kid,Random Oomph
-SS,390,Yggdrasil,3,Nature,2000,1200,600,1000,400,800,1-3 Giga Moves,Hit Squad (4),Counterstriker,Close Scraper
-SS,391,Sagittar,3,Material,2300,400,600,1000,800,800,2 Giga Moves,Hit Squad (4),Early Bird,Random Break Bind
-SS,392,Orgodemir,2,？？？系,1100,700,830,800,490,1200,1-3 Mega Moves,Hit Squad,Crafty Ice Breather,Imaginative
-SS,393,Gadis,3,？？？系,1900,600,550,750,650,1200,2-3 Giga Moves,Hit Squad (2),Disruptive Wave,Disenchanted
-SS,394,Xenlon,2,Dragon,1300,420,780,800,580,740,1-3 Mega Moves,Zapmeister,Crafty Fire Breather,Random Fizzle
-SS,395,Munchie,1,Nature,720,600,920,740,980,720,Crafty Fire Breather,Crafty Ice Breather,Strangely Alluring,Ally Tension Rise
-SS,396,Nokturnus,1,Demon,760,300,900,620,640,600,1-2 Moves,Hit Squad,Counterstriker,Yellow-Belly
-SS,397,Rhapthorne,1,？？？系,820,600,520,980,1000,1000,Artful Dodger,Disruptive Wave,Crafty Saboteur,Magic Barrier
-SS,398,Dark Robot Slime,3,Slime,1500,400,650,900,1000,1000,2-3 Giga Moves,Hit Squad (2),Hopeful Hitter,Spell Splurger
-SS,399,Dimensional Dragon,2,Dragon,1300,500,850,600,800,800,2-3 Mega Moves,Counterslammer,Enemy Tension Rise,Yellow-Belly
-SS,400,Aquarion,3,Beast,2600,240,600,600,520,400,2 Giga Moves,Increase Tension,Critical Massacre,Magic Barrier
-SS,401,Estark,3,Material,2350,450,820,730,460,540,2 Giga Moves,Hit Squad (2),Disruptive Wave,Restless
-SS,402,Rhapthorne II,3,？？？系,2200,800,600,800,400,1200,1-3 Giga Moves,Hit Squad (2),Crafty Zammer,Crafty Magic Drainer
-SS,403,Great Godbird,3,Nature,2200,600,600,700,1200,600,2 Giga Moves,Hit Squad (2),Crafty Ice Breather,Random Brake Wind
-SS,404,Malevolynx,3,？？？系,2300,300,900,720,780,600,2 Giga Moves,Sleep Attack,Crafty Sizzer,Random Malhaze
-SS,405,Leonyx,3,？？？系,2300,300,800,800,800,800,2 Giga Moves,Hit Squad (2),Crafty Devil,Yellow-Belly
-SS,406,Rigor Mortex,3,？？？系,2300,620,600,1100,360,600,1-3 Giga Moves,Magic Counter,Gambling Body,Immediate Nether Fog
-SS,407,Magarugi,3,？？？系,2000,900,540,770,1000,1500,1-3 Giga Moves,Hit Squad (3),Crafty Zapper,Crafty Zammer
-SS,408,Corvus,1,？？？系,600,360,770,600,380,720,2 Moves,Disruptive Wave,Crafty Zammer,Comeback Kid
-SS,409,Dragovian Lord,2,Dragon,1500,200,1100,1000,700,600,1-2 Mega Moves,Critical Massacre,Desperado,Despellado
-SS,410,Zenith Dragon,3,Dragon,2400,400,600,800,600,800,1-3 Giga Moves,Hit Squad (4),Desperado,Counterslammer
-SS,411,Baboodread,3,？？？系,1900,550,550,720,780,1200,2-3 Giga Moves,Hit Squad (2),Magic Counter,Spell Splurger
-SS,412,Wulfspade,1,？？？系,800,400,620,780,680,600,Increase Tension,Crafty Zapper,Fly Swatter,Strangely Alluring
-SS,413,Hawkhart,1,？？？系,820,400,600,780,600,680,Increase Tension,Hit Squad (2),Early Bird,Strangely Alluring
-SS,414,Cluboon,1,？？？系,820,400,680,720,600,480,Increase Tension,Giant Killer,Critical Massacre,Strangely Alluring
-SS,415,Diamagon,1,？？？系,840,400,680,720,460,600,Increase Tension,Ally Tension Rise,Metal Beater,Strangely Alluring
-SS,416,Wulfspade Ace,1,？？？系,800,500,800,900,840,920,Increase Tension,Hit Squad,Crafty Zapper,Fly Swatter
-SS,417,Hawkhart Ace,1,？？？系,680,560,500,800,930,860,1-2 Moves,Increase Tension,Early Bird,Yellow-Belly
-SS,418,Cluboon Ace,1,？？？系,820,510,840,900,760,720,Increase Tension,Hit Squad (3),Giant Killer,Critical Massacre
-SS,419,Diamagon Ace,1,？？？系,880,540,770,820,640,800,Increase Tension,Hit Squad (2),Ally Tension Rise,Metal Beater
-SS,420,Ace Of Spades,1,？？？系,860,520,800,830,700,780,Hit Squad,Zammeister,Immediate Fizzle,Magic Barrier
-SS,421,Wildcard,1,？？？系,620,600,1000,1000,920,800,Hit Squad,Counteractivist,Wave of Relief,Protective Fog
+S,354,Malroth,2,Demon,1260,680,680,670,420,1000,Big Hitter (2),Hit Squad,Health Professional,Disruptive Wave
+S,355,Darck,1,？？？系,1000,460,700,700,580,800,Heckling Hector,Gamble Counter,Grumble,Disruptive Wave
+S,356,Tyrannosaurus Wrecks,1,Demon,700,220,800,520,450,380,Double Trouble,Critical Mastermind,Static,Spell Splurger
+S,357,Captain Crow,1,Zombie,920,500,760,840,760,400,Psycho,Rabble Rouser,Disruptive Wave,Random Brake Wind
+S,358,Grandpa Slime,2,Slime,1300,800,740,1000,720,1200,Big Hitter (1-2),Disruptive Wave,Random Tension,Zapmeister
+S,359,Canzar,3,Slime,2550,200,800,800,200,400,Grand Slammer (2),Hit Squad (2),Close Scraper,Random Mist Me
+S,360,Khalamari,3,Nature,2300,400,900,760,440,800,Grand Slammer (2),Hit Squad (2),Psycho,Crafty Dazzler
+S,361,Dhoulmagus,1,Beast,800,560,800,860,720,1000,Hit Squad,Psycho,Counterstriker,Zammeister
+S,362,Überkilling Machine,1,Material,800,200,900,900,600,200,Tactical Trooper,Hit Squad (3),Bouncer,Random Oomph
+S,363,Slime Blaster,3,Slime,2000,600,500,1000,200,1200,Grand Slammer (1-3),Bouncer,Counteractivist,Late Riser
+S,364,King Godwyn,3,Zombie,1900,700,550,500,800,1000,Grand Slammer (2-3),Drain Magic,Disruptive Wave,Disenchanted
+S,365,Ruin,3,Material,2150,200,800,1000,200,400,Grand Slammer (2),Hopeful Hitter,Disenchanted,Last Word
+X,366,Gem Slime,2,Slime,80,800,640,1800,1800,1400,Big Hitter (1-2),Metal Body,Hit Squad (3),Rival Riler
+X,367,Dragonlord,2,Dragon,1100,520,1000,900,600,820,Big Hitter (1-3),Psycho,Close Scraper,Unlucky
+X,368,Leopold,1,Nature,840,540,740,820,1000,520,Artful Dodger,Early Bird,Giant Killer,Starting Malhaze
+X,369,Psaro,2,Material,1400,500,1000,900,800,600,Big Hitter (1-2),Desperado,Crafty Whacker,Bouncer
+X,370,Robbin's Old Lady,2,Beast,1250,400,960,600,700,660,Big Hitter (2),Hit Squad,Starting Tension,Strangely Alluring
+X,371,Prince O' Thieves,1,Demon,760,360,820,620,760,440,Tactical Trooper,Intimidating,Grumble,Berserker
+X,372,Nimzo,2,？？？系,1300,500,720,700,600,820,Big Hitter (2),Disruptive Wave,Crafty Sapper,Random Tension
+X,373,Xiphos,3,Dragon,1900,400,800,540,1000,720,Grand Slammer (2-3),Hit Squad (2),Critical Guard,Disenchanted
+X,374,Diamond Slime,1,Slime,100,400,750,1400,1400,1000,Hard Metal Body,Random Tension,Drain Magic,Disenchanted
+X,375,Orochi,3,Dragon,2600,220,720,520,340,520,Grand Slammer (1-3),Hit Squad (4),Crafty Fire Breather,Random Tension
+X,376,Trode,1,Nature,880,600,800,700,680,600,Psycho,Counterstriker,Escape Artist,Heckling Hector
+X,377,Pruslas,3,Beast,2200,200,800,800,200,400,Grand Slammer (1-3),Hopeful Hitter,Last Word,Foot Dragger
+X,378,Trauminator,2,Material,1200,400,830,1000,730,720,Big Hitter (2),Bangmeister,Crafty Inactivist,Random Magic Barrier
+X,379,Scruffy,1,Demon,800,600,800,500,1000,1000,Grumble,Pro Talent Scout,Counteractivist,Random Mist Me
+X,380,Dr Snapped,2,Zombie,1100,600,920,700,610,1200,Big Hitter (2),Hit Squad (2),Poisonous,Confusing Touch
+X,381,Zoma,1,？？？系,620,600,660,860,640,1000,Tactical Trooper,Bouncer,Crafty Cracker,Starting Ping
+X,382,Liquid Metal King Slime,3,Slime,200,1000,565,1600,1600,1490,Grand Slammer (2-3),Metal Body,Standard Killer,Perilous Parrier
+X,383,Barbarus,2,Dragon,1300,280,940,710,600,800,Big Hitter (2),Intimidating,Crafty Donker,Random Netherfog
+X,384,Numen,1,Nature,840,590,760,760,700,960,Comeback Kid,Wave of Relief,Lucky,Starting Ping
+X,385,Fluffy,1,Beast,820,540,840,700,900,720,Rabble Rouser,Pro Talent Scout,Bouncer,Random Mist Me
+X,386,Schwarzman Tank,3,Material,1800,300,850,1000,100,400,Grand Slammer (1-3),Light Metal Body,Desperado,Spell Splurger
+X,387,Mortamor,2,？？？系,1000,800,870,710,800,1000,Big Hitter (1-3),Hit Squad,Starting Nether Fog,Disruptive Wave
+X,388,Baboorood,3,？？？系,2100,400,550,640,560,800,Grand Slammer (2-3),Sleepy Touch,Counteractivist,Spell Splurger
+X,389,Greygnarl,2,Dragon,1300,320,920,670,650,700,Big Hitter (2),Zapmeister,Comeback Kid,Random Oomph
+X,390,Yggdrasil,3,Nature,2000,1200,600,1000,400,800,Grand Slammer (1-3),Hit Squad (4),Counterstriker,Close Scraper
+X,391,Sagittar,3,Material,2300,400,600,1000,800,800,Grand Slammer (2),Hit Squad (4),Early Bird,Random Break Bind
+X,392,Orgodemir,2,？？？系,1100,700,830,800,490,1200,Big Hitter (1-3),Hit Squad,Crafty Ice Breather,Critical Mastermind
+X,393,Gadis,3,？？？系,1900,600,550,750,650,1200,Grand Slammer (2-3),Hit Squad (2),Disruptive Wave,Disenchanted
+X,394,Xenlon,2,Dragon,1300,420,780,800,580,740,Big Hitter (1-3),Zapmeister,Crafty Fire Breather,Random Kafizzle
+X,395,Munchie,1,Nature,720,600,920,740,980,720,Crafty Fire Breather,Crafty Ice Breather,Strangely Alluring,Rabble Rouser
+X,396,Nokturnus,1,Demon,760,300,900,620,640,600,Tactical Trooper,Hit Squad,Counterstriker,Foot Dragger
+X,397,Rhapthorne,1,？？？系,820,600,520,980,1000,1000,Artful Dodger,Disruptive Wave,Crafty Magical Saboteur,Random Magic Barrier
+X,398,Dark Mecha-Slime,3,Slime,1500,400,650,900,1000,1000,Grand Slammer (2-3),Hit Squad (2),Hopeful Hitter,Spell Splurger
+X,399,Dimensional Dragon,2,Dragon,1300,500,850,600,800,800,Big Hitter (2-3),Gamble Counter,Rival Riler,Foot Dragger
+X,400,Aquarion,3,Beast,2600,240,600,600,520,400,Grand Slammer (2),Psycho,Critical Massacre,Random Magic Barrier
+X,401,Estark,3,Material,2350,450,820,730,460,540,Grand Slammer (2),Hit Squad (2),Disruptive Wave,Toss & Turn
+X,402,Rhapthorne II,3,？？？系,2200,800,600,800,400,1200,Grand Slammer (1-3),Hit Squad (2),Crafty Zammer,Crafty Magic Drainer
+X,403,Great Godbird,3,Nature,2200,600,600,700,1200,600,Grand Slammer (2),Hit Squad (2),Crafty Ice Breather,Random Brake Wind
+X,404,Malevolynx,3,？？？系,2300,300,900,720,780,600,Grand Slammer (2),Sleepy Touch,Crafty Sizzer,Random Malhaze
+X,405,Leonyx,3,？？？系,2300,300,800,800,800,800,Grand Slammer (2),Hit Squad (2),Crafty Devil,Foot Dragger
+X,406,Rigor Mortex,3,？？？系,2300,620,600,1100,360,600,Grand Slammer (1-3),Bouncer,Perilous Parrier,Starting Nether Fog
+X,407,Magarugi,3,？？？系,2000,900,540,770,1000,1500,Grand Slammer (1-3),Hit Squad (3),Crafty Zapper,Crafty Zammer
+X,408,Corvus,1,？？？系,600,360,770,600,380,720,Double Trouble,Disruptive Wave,Crafty Zammer,Comeback Kid
+X,409,Dragovian Lord,2,Dragon,1500,200,1100,1000,700,600,Big Hitter (1-2),Critical Massacre,Desperado,Magical Moment
+X,410,Zenith Dragon,3,Dragon,2400,400,600,800,600,800,Grand Slammer (1-3),Hit Squad (4),Desperado,Gamble Counter
+X,411,Baboodread,3,？？？系,1900,550,550,720,780,1200,Grand Slammer (2-3),Hit Squad (2),Bouncer,Spell Splurger
+X,412,Wulfspade,1,？？？系,800,400,620,780,680,600,Psycho,Crafty Zapper,Fly Swatter,Strangely Alluring
+X,413,Hawkhart,1,？？？系,820,400,600,780,600,680,Psycho,Hit Squad (2),Early Bird,Strangely Alluring
+X,414,Cluboon,1,？？？系,820,400,680,720,600,480,Psycho,Giant Killer,Critical Massacre,Strangely Alluring
+X,415,Diamagon,1,？？？系,840,400,680,720,460,600,Psycho,Rabble Rouser,Metal Beater,Strangely Alluring
+X,416,Wulfspade Ace,1,？？？系,800,500,800,900,840,920,Psycho,Hit Squad,Crafty Zapper,Fly Swatter
+X,417,Hawkhart Ace,1,？？？系,680,560,500,800,930,860,Tactical Trooper,Psycho,Early Bird,Foot Dragger
+X,418,Cluboon Ace,1,？？？系,820,510,840,900,760,720,Psycho,Hit Squad (3),Giant Killer,Critical Massacre
+X,419,Diamagon Ace,1,？？？系,880,540,770,820,640,800,Psycho,Hit Squad (2),Rabble Rouser,Metal Beater
+X,420,Ace Of Spades,1,？？？系,860,520,800,830,700,780,Hit Squad,Zammeister,Starting Fizzle,Random Magic Barrier
+X,421,Wildcard,1,？？？系,620,600,1000,1000,920,800,Hit Squad,Counteractivist,Wave of Relief,Random Mist Me

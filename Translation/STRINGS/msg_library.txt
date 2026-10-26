@@ -28,8 +28,8 @@ When attacked, monster has a 50% chance{315}to retaliate with a counter-attack.
 Monster may inflict poison on enemies{315}upon being attacked.
 Monster may inflict paralysis on enemies{315}upon being attacked.
 Monster team will always be able to flee{315}from a battle if possible.
-Monster recovers 10% HP each time it{315}acts in battle.
-Monster recovers 10% MP each time it{315}acts in battle.
+Monster recovers 10% HP each turn.
+Monster recovers 10% MP each turn.
 Boosts healing spell effects while{315}decreasing MP consumption.
 Boosts Frizz-type magic effects while{315}decreasing MP consumption.
 Boosts Bang-type magic effects while{315}decreasing MP consumption.
@@ -208,7 +208,7 @@ At the start of battle,{315}may cast Kafizzle.
 Monster may cast Ping on itself{315}during battle.
 Monster may cast Brake Wind{315}during battle.
 Monster may cast Kafizzle{315}during battle.
-Monster may raise its own tension{315}to High Tension during the battle.
+Monster may raise its own tension by{315}2 levels during the battle.
 Monster may cast Magic Barrier{315}during battle.
 Monster may cast Mist Me{315}during battle.
 

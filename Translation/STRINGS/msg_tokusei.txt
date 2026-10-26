@@ -227,20 +227,20 @@ Sap Guard
 Decelerate Guard
 Dim Guard
 Magical Sabotage Guard
-Big Hitter (2-3)
-Big Hitter (2)
-Big Hitter (1-3)
-Big Hitter (0-4)
-Big Hitter (1-2)
+Big Hitter(2-3)
+Big Hitter(2)
+Big Hitter(1-3)
+Big Hitter(0-4)
+Big Hitter(1-2)
 Critical Mastermind
 Magical Moment
 Starting Netherfog
 Starting Break Seal
-Grand Slammer (2-3)
-Grand Slammer (2)
-Grand Slammer (1-3)
-Grand Slammer (0-4)
-Grand Slammer (1-2)
+Grand Slammer(2-3)
+Grand Slammer(2)
+Grand Slammer(1-3)
+Grand Slammer(0-4)
+Grand Slammer(1-2)
 Random Oomph
 Random Buff
 Random Accelerate
