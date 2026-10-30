@@ -258,5 +258,5 @@ jobs:
           GH_REPO: ${{ github.repository }}
         run: |
           TAG="${GITHUB_REF_NAME}"
-          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "DQMJ2P Patcher ${TAG#gui-}" --notes ""
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "DQMJ2P Patcher ${TAG#gui-}" --notes "" --prerelease
           gh release upload "$TAG" release-assets/* --clobber

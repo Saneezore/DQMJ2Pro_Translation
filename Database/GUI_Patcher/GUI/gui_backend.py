@@ -402,6 +402,7 @@ def main(argv=None):
         arm9_decompress, arm9_compress,
         overlay_decompress, overlay_compress,
         update_y9,
+        apply_experimental_wifi,
         apply_grow_msg_pool,
         apply_grow_actionhelp,
         apply_cheat_taint,
@@ -447,6 +448,7 @@ def main(argv=None):
             arm9_decompress, arm9_compress,
             overlay_decompress, overlay_compress,
             update_y9,
+            apply_experimental_wifi,
             apply_grow_msg_pool,
             apply_grow_actionhelp,
             apply_cheat_taint,
@@ -504,6 +506,7 @@ def main(argv=None):
         raise SystemExit("arm9.bin not found")
     arm9 = files["arm9"]
     dec = arm9_decompress(arm9)
+    apply_experimental_wifi(dec, 'arm9')
     apply_grow_msg_pool(dec, 0x35000)
     taint_save = any((
         args.randomizer_enabled,
@@ -519,6 +522,17 @@ def main(argv=None):
     if args.xvariant_suffix:
         apply_xvariant_suffix(dec)
     arm9.write_bytes(arm9_compress(dec))
+
+    ov6 = pro_rom / 'overlay_dir' / 'overlay_0006.bin'
+    if not ov6.is_file() or 'y9' not in files:
+        raise SystemExit('overlay_0006.bin or y9.bin not found')
+    orig = ov6.stat().st_size
+    dec = overlay_decompress(ov6)
+    apply_experimental_wifi(dec, 'ov006')
+    comp = overlay_compress(bytes(dec))
+    ov6.write_bytes(comp)
+    if len(comp) != orig:
+        update_y9(files['y9'], 6, len(comp))
 
     print("Applying overlay_0001 patches...")
     if "ov0001" not in files or "y9" not in files:

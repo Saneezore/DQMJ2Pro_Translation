@@ -9,6 +9,7 @@ Usage:
     apply_patches.py --rom Pro_ROM
 """
 import argparse, math, os, struct, subprocess, sys, tempfile
+import re
 from pathlib import Path
 
 BLZ = str(Path(__file__).parent / 'blz.exe')
@@ -24,6 +25,33 @@ Y9_FLAGS_OFF     = 28
 Y9_COMPRESS_FLAG = 0x01 << 24
 
 OV_RAM_BASE = 0x021d7240
+
+
+def apply_experimental_wifi(data: bytearray, module: str):
+    count = 0
+    for match in re.finditer(rb'[ -~]{6,}\x00', bytes(data)):
+        old = match.group()
+        if b'nintendowifi.net' not in old:
+            continue
+        new = old.replace(b'https://', b'http://').ljust(len(old), b'\0')
+        data[match.start():match.end()] = new
+        count += 1
+    expected = {'arm9': 16, 'ov006': 1}[module]
+    if count != expected:
+        raise ValueError(f'{module}: unexpected WFC string count {count}, expected {expected}')
+    if module != 'arm9':
+        return
+    edits = (
+        (0xBA0B4, '0a00000a', '0a0000ea'),
+        (0xD1F30,
+         '08402de944309fe50000e0e3140083e50010a0e3081083e534009fe50820a0e3041083e587dbfceb24109fe524309fe57800a0e30820a0e3',
+         '24009fe524109fe5001080e5041080e51c009fe50110a0e3141080e5041080e50810a0e3081080e51eff2fe190701d0233080c1f70701d02'),
+    )
+    for offset, before_hex, after_hex in edits:
+        before, after = bytes.fromhex(before_hex), bytes.fromhex(after_hex)
+        if data[offset:offset + len(before)] != before:
+            raise ValueError(f'Unexpected Wi-Fi code at ARM9 offset {offset:#x}')
+        data[offset:offset + len(before)] = after
 
 # RetroAchievements anti-cheat marker.  The chosen bit is the otherwise-unused
 # Rigor Mortex XY "seen" flag in the checksummed save data.  A marked ROM sets
